@@ -1,0 +1,994 @@
+<template path="Assets/Levels/LEVEL_TEMPLATES/FOREST/Slave/DungeonBlocks/MORGANA/MOR_MONASTERY_HIGHLIGHT_STANDARD_STRAIGHT_Puzzle_01.unity" unityguid="80fd5f9d0cb56904795e8808143bf9c1" editorBoundsMin="-40 -40" editorBoundsMax="40 40" colBoundsMin="-52 -54" colBoundsMax="54 43">
+  <criticalscenemembers>
+    <criticalscenemember id="shrine_02" type="shrine" layerId="">
+      <tile name="SHRINE_MORGANA_SILVER_STANDARD" pos="0 -2 0" roty="180">
+        <shrine shrinetype="MORGANA_SHRINE_SILVER_STANDARD" />
+      </tile>
+    </criticalscenemember>
+  </criticalscenemembers>
+  <tiles>
+    <layergroup name="Backdrop">
+      <layer id="Layer_02" name="Swamp">
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-35 -28 -35" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-15 -28 -15" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="5 -28 -35" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-5 -28 25" roty="180" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="5 -28 5" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="5 -28 15" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-15 -28 -5" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-35 -28 -5" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-35 -28 15" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="25 -28 35" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-35 -28 25" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="35 -28 35" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-25 -28 -35" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-5 -28 -5" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="15 -28 -35" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="5 -28 -25" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-25 -28 -5" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="25 -28 5" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="15 -28 -15" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-5 -28 -25" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="35 -28 5" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="15 -28 5" roty="180" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-35 -28 5" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="15 -28 25" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-15 -28 5" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="5 -28 -15" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-25 -28 5" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-5 -28 25" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-25 -28 -25" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="15 -28 35" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="35 -28 -15" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="15 -28 -5" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="25 -28 -15" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-15 -28 35" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="25 -28 -5" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="35 -28 -35" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-15 -28 -35" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-15 -28 25" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-25 -28 35" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-5 -28 15" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="25 -28 -25" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="15 -28 -25" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-15 -28 -25" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="5 -28 -5" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="25 -28 -35" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-5 -28 -15" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="35 -28 -25" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-35 -28 -15" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="25 -28 15" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-15 -28 15" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-35 -28 35" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="5 -28 25" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-5 -28 5" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="35 -28 25" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="5 -28 35" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-5 -28 35" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-25 -28 -15" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="35 -28 15" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="25 -28 25" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-35 -28 -25" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-25 -28 15" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-5 -28 -35" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="35 -28 -5" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="-25 -28 25" />
+        <tile name="SWAMP_GREEN_GROUND_OBJECT" pos="15 -28 15" />
+        <compoundtile name="_SWAMP_GREEN_FILL_HILL_BASE_LARGE_A_VERTICAL_BUSHES_01" pos="-29 -26 -31" roty="180" />
+        <compoundtile name="_SWAMP_GREEN_FILL_LOW_TREES_GROUP_COMP_01" pos="20 -28 -15" roty="270" />
+        <tile name="SWAMP_GREEN_FILL_HILL_BASE_B" pos="26 -28 -8" />
+        <tile name="SWAMP_GREEN_FILL_HILL_BASE_B" pos="-10 -28 29" roty="90" />
+        <tile name="SWAMP_GREEN_FILL_HILL_BASE_B" pos="20 -28 30" roty="270" />
+        <compoundtile name="_SWAMP_GREEN_FILL_LOW_TREES_GROUP_COMP_01" pos="-23 -28 17" roty="90" />
+        <tile name="SWAMP_GREEN_FILL_HILL_BASE_B" pos="15 -28 -16" roty="180" />
+        <tile name="SWAMP_GREEN_FILL_HILL_BASE_B" pos="-15 -28 -14" roty="90" />
+        <tile name="SWAMP_GREEN_FILL_HILL_BASE_B" pos="9 -28 31" />
+        <tile name="SWAMP_GREEN_PLATEAU_ROCK_4M_A_DEBRIS_NOCOL" pos="-20 -28 -9" />
+        <tile name="SWAMP_GREEN_PLATEAU_ROCK_8M_A_DEBRIS_NOCOL" pos="23 -28 25" roty="90" />
+        <tile name="SWAMP_GREEN_T1_BUSH_B" pos="-11.5 -28 -16.5" />
+        <compoundtile name="_SWAMP_GREEN_FILL_LOW_TREES_GROUP_COMP_01" pos="-17 -28 -30" roty="90" />
+        <compoundtile name="_SWAMP_GREEN_FILL_LOW_TREES_GROUP_COMP_01" pos="25 -28 -30" />
+        <compoundtile name="_SWAMP_GREEN_FILL_LOW_TREES_GROUP_COMP_01" pos="-32 -28 21" />
+        <tile name="SWAMP_GREEN_T1_BUSH_B" pos="33.5 -28 -34.5" />
+        <tile name="SWAMP_GREEN_PLATEAU_ROCK_8M_A_DEBRIS_NOCOL" pos="15 -28 -13" />
+        <compoundtile name="_SWAMP_GREEN_FILL_LOW_TREES_GROUP_COMP_01" pos="15 -28 -30" roty="180" />
+        <compoundtile name="_SWAMP_GREEN_FILL_LOW_TREES_GROUP_COMP_01" pos="22 -28 -26" roty="90" />
+        <compoundtile name="_SWAMP_GREEN_FILL_LOW_TREES_GROUP_COMP_01" pos="16 -28 -35" roty="90" />
+        <compoundtile name="_SWAMP_GREEN_FILL_LOW_TREES_GROUP_COMP_01" pos="-31 -28 4" roty="90" />
+        <tile name="SWAMP_GREEN_PLATEAU_ROCK_8M_A_DEBRIS_NOCOL" pos="-21 -28 28" />
+        <tile name="SWAMP_GREEN_PLATEAU_ROCK_8M_A_DEBRIS_NOCOL" pos="28 -28 -11" roty="270" />
+        <compoundtile name="_SWAMP_GREEN_FILL_LOW_TREES_GROUP_COMP_01" pos="30 -28 21" roty="180" />
+      </layer>
+      <layer id="Layer_03" name="Steppe">
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-15 -28 35" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-15 -28 5" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="35 -28 -5" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-15 -28 25" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="5 -28 15" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="25 -28 -25" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-25 -28 25" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="5 -28 -5" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-35 -28 -5" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="15 -28 35" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="5 -28 -15" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-35 -28 15" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-5 -28 25" roty="180" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="25 -28 35" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-5 -28 35" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="15 -28 25" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="5 -28 25" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="25 -28 5" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-5 -28 -25" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-25 -28 15" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="25 -28 25" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="25 -28 15" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-5 -28 -35" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="15 -28 -35" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="35 -28 -15" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-15 -28 -15" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-25 -28 5" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-5 -28 -15" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-15 -28 -25" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-15 -28 -35" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="25 -28 -15" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="5 -28 5" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-25 -28 -5" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-15 -28 -5" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-35 -28 5" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="5 -28 -25" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-15 -28 15" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="35 -28 -35" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-35 -28 -15" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-35 -28 -25" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="35 -28 15" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-35 -28 25" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-5 -28 25" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="35 -28 5" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="15 -28 -5" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-5 -28 5" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="15 -28 -25" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-25 -28 -25" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="15 -28 -15" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="25 -28 -5" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="15 -28 5" roty="180" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-25 -28 -35" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-5 -28 15" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="25 -28 -35" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-35 -28 -35" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="35 -28 -25" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-25 -28 35" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="5 -28 -35" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="15 -28 15" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="35 -28 25" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="5 -28 35" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-5 -28 -5" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-25 -28 -15" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="35 -28 35" />
+        <tile name="STEPPE_GREEN_GROUND_OBJECT" pos="-35 -28 35" />
+        <compoundtile name="_STEPPE_GREEN_FILL_DRY_VEGETATION_BASE_COMP_05" pos="28 -28 26" roty="180" />
+        <tile name="STEPPE_GREEN_PLATEAU_ROCK_8M_B_DEBRIS_NOCOL" pos="29 -28 12" />
+        <tile name="STEPPE_GREEN_PLATEAU_ROCK_8M_B_DEBRIS_NOCOL" pos="-11 -28 30" roty="180" />
+        <tile name="STEPPE_GREEN_FILL_HILL_BASE_B" pos="-32 -28 -17" roty="90" />
+        <tile name="STEPPE_GREEN_FILL_HILL_BASE_B" pos="20 -28 30" roty="270" />
+        <tile name="STEPPE_GREEN_FILL_HILL_BASE_B" pos="22 -28 -24" roty="270" />
+        <tile name="STEPPE_GREEN_T1_BUSH_B" pos="7.5 -28 -37.5" />
+        <tile name="STEPPE_GREEN_T1_BUSH_B" pos="-27.5 -16 -17.5" />
+        <compoundtile name="_STEPPE_GREEN_FILL_DRY_VEGETATION_BASE_20x20_COMP_01" pos="-33 -28 29" roty="90" />
+        <tile name="STEPPE_GREEN_T1_BUSH_B" pos="8.5 -28 26.5" roty="180" />
+        <tile name="STEPPE_GREEN_FILL_HILL_BASE_B" pos="-19 -28 -27" roty="90" />
+        <tile name="STEPPE_GREEN_PLATEAU_ROCK_4M_A_DEBRIS_NOCOL" pos="11 -28 34" roty="180" />
+        <compoundtile name="_STEPPE_GREEN_FILL_DRY_VEGETATION_BASE_COMP_05" pos="-34 -28 -33" />
+        <compoundtile name="_STEPPE_GREEN_FILL_DRY_VEGETATION_BASE_20x20_COMP_01" pos="28 -28 -28" />
+        <tile name="STEPPE_GREEN_FILL_HILL_BASE_B" pos="19 -28 -17" />
+      </layer>
+      <layer id="Layer_05" name="Mountain">
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="-25 -28 -35" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="25 -28 -5" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="35 -28 15" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="-15 -28 5" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="-15 -28 25" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="15 -28 -25" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="35 -28 -15" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="-35 -28 35" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="25 -28 -35" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="-35 -28 -5" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="-35 -28 -25" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="15 -28 25" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="25 -28 -15" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="15 -28 5" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="-25 -28 -15" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="15 -28 -5" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="5 -28 25" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="-25 -28 -25" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="15 -28 -35" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="-15 -28 -5" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="35 -28 -35" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="-15 -28 -25" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="25 -28 25" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="15 -28 -15" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="-15 -28 -35" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="-5 -28 35" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="-25 -28 5" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="35 -28 -5" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="-25 -28 35" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="-25 -28 -5" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="-15 -28 15" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="-35 -28 -15" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="25 -28 5" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="35 -28 25" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="15 -28 15" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="-25 -28 25" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="25 -28 -25" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="-15 -28 35" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="25 -28 35" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="5 -28 15" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="-35 -28 5" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="5 -28 35" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="-35 -28 15" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="-25 -28 15" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="-35 -28 -35" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="15 -28 35" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="-15 -28 -15" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="35 -28 5" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="35 -28 35" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="-5 -28 25" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="25 -28 15" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="-35 -28 25" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="-5 -28 15" />
+        <tile name="MOUNTAIN_GREEN_GROUND_OBJECT" pos="35 -28 -25" />
+        <compoundtile name="_MOUNTAIN_GREEN_SB_DRYBRUSH_10x20_COMP_02" pos="24 -28 -35" roty="270" />
+        <compoundtile name="_MOUNTAIN_GREEN_SB_DRYBRUSH_10x20_COMP_02" pos="33 -28 -20" roty="180" />
+        <compoundtile name="_MOUNTAIN_GREEN_SB_DRYBRUSH_10x20_COMP_02" pos="31 -28 21" roty="180" />
+        <compoundtile name="_MOUNTAIN_GREEN_SB_DRYBRUSH_10x20_COMP_02" pos="21 -28 34" roty="90" />
+        <compoundtile name="_MOUNTAIN_GREEN_SB_DRYBRUSH_10x20_COMP_02" pos="-26 -28 34" roty="90" />
+        <compoundtile name="_MOUNTAIN_GREEN_SB_DRYBRUSH_10x20_COMP_02" pos="-37 -28 25" />
+        <compoundtile name="_MOUNTAIN_GREEN_SB_DRYBRUSH_10x20_COMP_02" pos="-35 -28 -5" roty="180" />
+        <compoundtile name="_MOUNTAIN_GREEN_SB_DRYBRUSH_10x20_COMP_02" pos="-35 -28 -23" />
+        <tile name="MOUNTAIN_GREEN_FILL_HILL_BASE_B" pos="31 -28 -6" roty="270" />
+        <tile name="MOUNTAIN_GREEN_FILL_HILL_BASE_B" pos="-21 -28 -33" roty="90" />
+        <tile name="MOUNTAIN_GREEN_FILL_HILL_BASE_B" pos="23 -28 -25" />
+        <tile name="MOUNTAIN_GREEN_FILL_HILL_BASE_B" pos="-18 -28 29" roty="180" />
+        <tile name="MOUNTAIN_GREEN_FILL_TREE_GIANT_A" pos="37 -28 -16" roty="90" />
+        <tile name="MOUNTAIN_GREEN_FILL_TREE_GIANT_A" pos="38 -28 -21" />
+        <tile name="MOUNTAIN_GREEN_FILL_TREE_GIANT_A" pos="16 -28 -36" />
+        <tile name="MOUNTAIN_GREEN_FILL_TREE_GIANT_A" pos="34 -28 17" roty="270" />
+        <tile name="MOUNTAIN_GREEN_FILL_TREE_GIANT_A" pos="39 -28 23" roty="180" />
+        <tile name="MOUNTAIN_GREEN_FILL_TREE_GIANT_A" pos="37 -28 11" roty="180" />
+        <tile name="MOUNTAIN_GREEN_FILL_TREE_GIANT_A" pos="-37 -28 35" roty="180" />
+        <tile name="MOUNTAIN_GREEN_FILL_TREE_GIANT_A" pos="-36 -28 -18" roty="90" />
+        <tile name="MOUNTAIN_GREEN_PLATEAU_ROCK_8M_A_DEBRIS_NOCOL" pos="-9 -28 28" roty="90" />
+        <tile name="MOUNTAIN_GREEN_PLATEAU_ROCK_8M_A_DEBRIS_NOCOL" pos="-27 -28 12" roty="90" />
+        <tile name="MOUNTAIN_GREEN_PLATEAU_ROCK_8M_A_DEBRIS_NOCOL" pos="-15 -28 -28" />
+      </layer>
+      <layer id="Layer_07" name="FOREST">
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="5 -28 15" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-25 -28 -5" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="35 -28 35" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="25 -28 -15" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-15 -28 35" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="35 -28 -25" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-5 -28 35" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-25 -28 15" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="25 -28 -35" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-35 -28 -35" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-35 -28 5" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-35 -28 15" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="25 -28 35" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="25 -28 25" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="35 -28 -35" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="15 -28 15" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="35 -28 15" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-35 -28 -5" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="25 -28 -5" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="25 -28 5" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="35 -28 25" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-35 -28 35" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="5 -28 35" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-35 -28 25" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="35 -28 -15" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-35 -28 -15" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="25 -28 -25" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-25 -28 -15" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-25 -28 25" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="35 -28 -5" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-5 -28 25" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-25 -28 -25" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="15 -28 35" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-25 -28 35" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="15 -28 -35" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="35 -28 5" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-15 -28 -35" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-5 -28 15" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="5 -28 25" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-35 -28 -25" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="15 -28 25" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-15 -28 25" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-15 -28 15" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="25 -28 15" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-25 -28 -35" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="15 -28 -25" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-15 -28 -25" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="5 -28 -35" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="5 -28 -25" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-5 -28 -35" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-5 -28 -25" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-25 -28 5" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="15 -28 -15" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="5 -28 5" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="15 -28 5" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-5 -28 5" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-15 -28 5" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="5 -28 -5" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="15 -28 -5" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-5 -28 -5" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-15 -28 -5" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="5 -28 -15" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-5 -28 -15" />
+        <tile name="FOREST_GREEN_GROUND_OBJECT" pos="-15 -28 -15" />
+        <compoundtile name="_FOREST_GREEN_BLEND_TO_SUB01_20x20_COMP_01" pos="-31 -28 -34" />
+        <compoundtile name="_FOREST_GREEN_BUSHES_10x20_COMP_01" pos="17 -28 -21" roty="90" />
+        <compoundtile name="_FOREST_GREEN_BUSHES_10x20_COMP_01" pos="-12 -28 -30" roty="270" />
+        <compoundtile name="_FOREST_GREEN_BUSHES_10x20_COMP_01" pos="-31 -28 -12" roty="270" />
+        <compoundtile name="_FOREST_GREEN_BUSHES_10x20_COMP_01" pos="35 -28 -1" roty="90" />
+        <compoundtile name="_FOREST_GREEN_BUSHES_10x20_COMP_01" pos="23 -28 31" roty="270" />
+        <compoundtile name="_FOREST_GREEN_BUSHES_20x20_DIAGONAL_COMP_01" pos="24 -28 -30" roty="90" />
+        <compoundtile name="_FOREST_GREEN_BUSHES_20x20_DIAGONAL_COMP_01" pos="-29 -28 -25" />
+        <compoundtile name="_FOREST_GREEN_DEAD_10x10_COMP_02" pos="-34 -28 22" />
+        <compoundtile name="_FOREST_GREEN_DEAD_10x10_COMP_02" pos="17 -28 29" roty="270" />
+        <compoundtile name="_FOREST_GREEN_DEAD_20x20_COMP_01" pos="-32 -28 -30" roty="270" />
+        <tile name="FOREST_GREEN_FILL_HILL_BASE_B" pos="15 -28 26" roty="90" />
+        <tile name="FOREST_GREEN_PLATEAU_ROCK_8M_B_DEBRIS_NOCOL" pos="16 -28 -18" />
+        <tile name="FOREST_GREEN_PLATEAU_ROCK_8M_B_DEBRIS_NOCOL" pos="-13 -28 30" />
+        <tile name="FOREST_GREEN_T1_BUSH_B" pos="-12.5 -28 -29.5" roty="90" />
+        <tile name="FOREST_GREEN_T1_BUSH_B" pos="-25.5 -16 -19.5" />
+        <compoundtile name="_FOREST_GREEN_BLEND_TO_SUB01_20x20_COMP_01" pos="26 -28 -32" roty="270" />
+        <compoundtile name="_FOREST_GREEN_BLEND_TO_SUB01_20x20_COMP_01" pos="35 -28 31" />
+        <tile name="FOREST_GREEN_PLATEAU_ROCK_8M_B_DEBRIS_NOCOL" pos="-29 -28 -10" roty="90" />
+        <tile name="FOREST_GREEN_PLATEAU_ROCK_8M_B_DEBRIS_NOCOL" pos="19 -28 29" roty="180" />
+        <compoundtile name="_FOREST_GREEN_BUSHES_10x20_COMP_01" pos="-30 -28 4" roty="90" />
+        <compoundtile name="_FOREST_GREEN_BLEND_TO_SUB01_20x20_COMP_01" pos="-36 -28 13" />
+        <compoundtile name="_FOREST_GREEN_BLEND_TO_SUB01_20x20_COMP_01" pos="-26 -28 30" />
+        <compoundtile name="_FOREST_GREEN_BUSHES_10x20_COMP_01" pos="-34 -28 -2" roty="270" />
+        <compoundtile name="_FOREST_GREEN_BLEND_TO_SUB01_20x20_COMP_01" pos="33 -28 7" />
+        <tile name="FOREST_GREEN_PLATEAU_ROCK_8M_B_DEBRIS_NOCOL" pos="14 -28 -26" />
+      </layer>
+      <layer id="Layer_10" name="Cave_1">
+        <tile name="AtmosphereBubble_DNG_MOR_DL_NONE_library_highlight_cave3" pos="-20.4 -2 -19.3">
+          <atmospherebubble layer="1" radius="20" blend="0.7099999" />
+        </tile>
+        <tile name="AtmosphereBubble_DNG_MOR_DL_NONE_library_highlight_cave3" pos="21.5 -2 -19.3">
+          <atmospherebubble layer="1" radius="20" blend="0.7099999" />
+        </tile>
+        <tile name="AtmosphereBubble_DNG_MOR_DL_NONE_library_highlight_cave3" pos="0 -2 0">
+          <atmospherebubble layer="1" radius="38" blend="0.7405264" />
+        </tile>
+        <tile name="AtmosphereBubble_DNG_MOR_DL_NONE_library_highlight_cave3" pos="21.5 -2 20.2">
+          <atmospherebubble layer="1" radius="20" blend="0.7099999" />
+        </tile>
+        <tile name="AtmosphereBubble_DNG_MOR_DL_NONE_library_highlight_cave3" pos="-22.2 -2 20.2">
+          <atmospherebubble layer="1" radius="20" blend="0.7099999" />
+        </tile>
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="15 -36 -15" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-5 -36 -15" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="5 -36 -15" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-25 -36 15" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="25 -36 -25" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-25 -36 -15" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-25 -36 -5" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="25 -36 35" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="35 -36 -35" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="35 -36 15" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="25 -36 15" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-25 -36 -35" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="35 -36 -25" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="5 -36 15" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-15 -36 35" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="35 -36 -15" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-35 -36 -15" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-5 -36 -35" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-5 -36 -25" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="15 -36 -25" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-15 -36 -25" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="5 -36 -35" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="5 -36 -25" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-15 -36 -15" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-5 -36 25" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-25 -36 -25" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="15 -36 35" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-25 -36 35" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="5 -36 25" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-35 -36 -25" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="15 -36 25" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-15 -36 25" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-25 -36 25" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="35 -36 25" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="25 -36 5" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="5 -36 35" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="15 -36 -35" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="35 -36 5" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-15 -36 -35" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-5 -36 15" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-15 -36 15" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-35 -36 25" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="25 -36 -35" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="5 -36 -5" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-15 -36 5" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-15 -36 -5" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-5 -36 -5" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="5 -36 5" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="15 -36 5" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="15 -36 -5" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-5 -36 5" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="35 -36 35" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-35 -36 15" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="15 -36 15" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-5 -36 35" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-35 -36 35" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-35 -36 5" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="25 -36 -15" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="25 -36 25" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-25 -36 5" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="25 -36 -5" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-35 -36 -5" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="-35 -36 -35" />
+        <tile name="FOREST_GREEN_DNG_GROUND_OBJ" pos="35 -36 -5" />
+        <tile name="HELL_FILL_ROCK_8M_NoCollision" pos="22 -36 29" roty="180" />
+        <tile name="HELL_FILL_ROCK_12M_NoCollision" pos="37 -37 -9" roty="270" />
+        <tile name="HELL_FILL_ROCK_12M_NoCollision" pos="29 -37 32" roty="90" />
+        <tile name="HELL_FILL_ROCK_28M_NoCollision" pos="35 -37 -31" scale="1 0.544142 1" />
+        <tile name="HELL_FILL_ROCK_28M_NoCollision" pos="31 -42 23" roty="270" scale="1.783728 1.021612 1.783728" />
+        <tile name="HELL_FILL_ROCK_28M_NoCollision" pos="-29 -42 -31" roty="90" scale="1.783727 1.049719 1.783727" />
+        <tile name="HELL_FILL_ROCK_28M_NoCollision" pos="11 -43 33" rot="0 180 1" scale="1 1.29798 1.794405" />
+        <tile name="HELL_FILL_ROCK_8M_NoCollision" pos="-11 -36 34" roty="180" />
+        <tile name="HELL_FILL_ROCK_28M_NoCollision" pos="-31 -40 13" rot="0 0 353" scale="1 1 2.41579" />
+        <tile name="HELL_FILL_ROCK_28M_NoCollision" pos="-31 -43 -3" rot="0 180 1" scale="0.9999998 1.29798 3.1207" />
+        <tile name="HELL_FILL_ROCK_8M_NoCollision" pos="-16 -36 -37" roty="270" />
+        <tile name="HELL_FILL_ROCK_28M_NoCollision" pos="-19 -37 30" />
+        <tile name="HELL_FILL_ROCK_8M_NoCollision" pos="-35 -36 8" roty="270" />
+        <tile name="HELL_FILL_ROCK_12M_NoCollision" pos="29 -37 -4" roty="180" />
+        <tile name="HELL_FILL_ROCK_12M_NoCollision" pos="30 -37 -19" roty="90" />
+        <tile name="HELL_FILL_ROCK_28M_NoCollision" pos="12 -43 -32" rot="0 180 352" scale="0.9999998 1.29798 1.871718" />
+        <tile name="HELL_FILL_ROCK_8M_NoCollision" pos="27 -36 -25" roty="180" />
+        <tile name="HELL_FILL_ROCK_12M_NoCollision" pos="-34 -37 -30" />
+        <tile name="HELL_FILL_ROCK_28M_NoCollision" pos="30 -40 11" rot="0 0 5" scale="1.213173 0.6068481 2.41579" />
+        <tile name="HELL_FILL_ROCK_28M_NoCollision" pos="15 -37 -26" roty="90" scale="1 0.7152823 1" />
+        <tile name="HELL_FILL_ROCK_28M_NoCollision" pos="-32 -37 -28" roty="270" scale="1 0.522631 1" />
+        <tile name="HELL_FILL_ROCK_28M_NoCollision" pos="-32 -37 31" scale="1 0.5032693 1" />
+        <tile name="HELL_FILL_ROCK_28M_NoCollision" pos="-23 -37 25" rot="0 0 358" scale="0.9576532 0.9576532 1.14672" />
+        <tile name="HELL_FILL_ROCK_28M_NoCollision" pos="-10 -37 -30" />
+        <tile name="HELL_FILL_ROCK_28M_NoCollision" pos="20 -37 -23" roty="270" />
+        <tile name="HELL_FILL_ROCK_28M_NoCollision" pos="-35 -37 -23" rot="0 90 358" />
+        <tile name="HELL_FILL_ROCK_28M_NoCollision" pos="33 -33 2" rot="0 90 358" scale="1.082452 0.5510846 1.082454" />
+        <tile name="HELL_FILL_ROCK_28M_NoCollision" pos="19 -33 -26" rot="0 180 358" scale="1.430851 0.7284601 1.43086" />
+        <tile name="HELL_FILL_ROCK_12M_NoCollision" pos="26 -37 -18" roty="180" />
+        <tile name="HELL_FILL_ROCK_28M_NoCollision" pos="29 -43 29" rot="0 270 1" scale="0.9999998 0.8174179 1.560361" />
+        <tile name="HELL_FILL_ROCK_28M_NoCollision" pos="31 -42 -13" scale="1.783731 1.529773 1.783731" />
+      </layer>
+      <layer id="Layer_11" name="Highlands">
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-15 -28 5" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="5 -28 -5" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-25 -28 -25" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="35 -28 15" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-25 -28 -35" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="15 -28 -25" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-25 -28 15" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-25 -28 25" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-15 -28 25" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="25 -28 15" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-5 -28 25" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="25 -28 -35" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-35 -28 15" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-35 -28 -15" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-25 -28 -15" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="15 -28 -5" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-5 -28 -5" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-35 -28 5" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="35 -28 5" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-5 -28 25" roty="180" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-5 -28 -35" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="25 -28 35" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="15 -28 15" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="35 -28 25" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="25 -28 25" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="5 -28 35" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-15 -28 -15" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-5 -28 -15" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="5 -28 -15" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="5 -28 5" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="5 -28 25" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-15 -28 -5" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="5 -28 -25" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-35 -28 -35" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-35 -28 -25" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="15 -28 25" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-5 -28 -25" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="15 -28 -15" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="15 -28 -35" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-5 -28 35" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-35 -28 35" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-35 -28 -5" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="25 -28 -25" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="25 -28 -5" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-35 -28 25" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="35 -28 -15" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-15 -28 35" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="25 -28 -15" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="35 -28 -35" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-25 -28 35" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="35 -28 -25" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="25 -28 5" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-25 -28 -5" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-15 -28 15" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-5 -28 5" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-15 -28 -35" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-5 -28 15" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="5 -28 15" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-25 -28 5" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="15 -28 35" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="35 -28 -5" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="15 -28 5" roty="180" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="35 -28 35" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="-15 -28 -25" />
+        <tile name="HIGHLAND_GREEN_GROUND_OBJECT" pos="5 -28 -35" />
+        <compoundtile name="_HIGHLAND_GREEN_SB_GRASS_20x20_COMP_01" pos="-32 -28 -29" />
+        <compoundtile name="_HIGHLAND_GREEN_SB_GRASS_20x20_COMP_01" pos="-28 -28 5" roty="90" />
+        <compoundtile name="_HIGHLAND_GREEN_SB_GRASS_20x20_COMP_01" pos="-27 -28 23" />
+        <compoundtile name="_HIGHLAND_GREEN_SB_GRASS_20x20_COMP_01" pos="2 -28 25" />
+        <compoundtile name="_HIGHLAND_GREEN_SB_GRASS_20x20_COMP_01" pos="17 -28 -33" roty="180" />
+        <compoundtile name="_HIGHLAND_GREEN_SB_GRASS_20x20_COMP_01" pos="15 -28 27" roty="180" />
+        <compoundtile name="_HIGHLAND_GREEN_SB_GRASS_BUSH_20x20_COMP_01" pos="-20 -28 -27" roty="90" />
+        <compoundtile name="_HIGHLAND_GREEN_SB_GRASS_BUSH_20x20_COMP_01" pos="17 -28 -19" roty="90" />
+        <compoundtile name="_HIGHLAND_GREEN_SB_GRASS_BUSH_20x20_COMP_01" pos="31 -28 11" roty="180" />
+        <compoundtile name="_HIGHLAND_GREEN_SB_GRASS_BUSH_20x20_COMP_01" pos="-34 -28 -15" roty="90" />
+        <tile name="HIGHLAND_GREEN_PLATEAU_ROCK_8M_B_DEBRIS_NOCOL" pos="-13 -28 -28" roty="90" />
+        <tile name="HIGHLAND_GREEN_PLATEAU_ROCK_8M_B_DEBRIS_NOCOL" pos="27 -28 25" roty="90" />
+        <tile name="HIGHLAND_GREEN_FILL_HILL_BASE_B" pos="-10 -28 29" roty="90" />
+        <tile name="HIGHLAND_GREEN_FILL_HILL_BASE_B" pos="19 -28 -21" />
+        <tile name="HIGHLAND_GREEN_FILL_HILL_BASE_B" pos="9 -28 31" />
+        <tile name="HIGHLAND_GREEN_T1_BUSH_B" pos="7.5 -28 -37.5" />
+        <tile name="HIGHLAND_GREEN_FILL_HILL_BASE_B" pos="-26 -28 2" roty="270" />
+        <tile name="HIGHLAND_GREEN_PLATEAU_ROCK_8M_B_DEBRIS_NOCOL" pos="-16 -28 29" roty="180" />
+        <compoundtile name="_HIGHLAND_GREEN_SB_TREE_GROVE_30x30_COMP_01" pos="32 -27 -28" roty="270" />
+        <tile name="HIGHLAND_GREEN_FILL_HILL_BASE_LARGE_A" pos="31 -28 20" roty="270" />
+        <compoundtile name="_HIGHLAND_GREEN_SB_GRASS_BUSH_20x20_COMP_01" pos="36 -28 31" roty="270" />
+        <compoundtile name="_HIGHLAND_GREEN_SB_GRASS_BUSH_20x20_COMP_01" pos="-28 -28 23" roty="180" />
+      </layer>
+      <layer id="Layer_12" name="Cave_Ocean">
+        <tile name="AtmosphereBubble_DNG_MOR_DL_NONE_library_highlight_cave3" pos="-20.4 -2 -19.3">
+          <atmospherebubble layer="1" radius="20" blend="0.7099999" />
+        </tile>
+        <tile name="AtmosphereBubble_DNG_MOR_DL_NONE_library_highlight_cave3" pos="21.5 -2 -19.3">
+          <atmospherebubble layer="1" radius="20" blend="0.7099999" />
+        </tile>
+        <tile name="AtmosphereBubble_DNG_MOR_DL_NONE_library_highlight_cave3" pos="0 -2 0">
+          <atmospherebubble layer="1" radius="38" blend="0.7405264" />
+        </tile>
+        <tile name="AtmosphereBubble_DNG_MOR_DL_NONE_library_highlight_cave3" pos="21.5 -2 20.2">
+          <atmospherebubble layer="1" radius="20" blend="0.7099999" />
+        </tile>
+        <tile name="AtmosphereBubble_DNG_MOR_DL_NONE_library_highlight_cave3" pos="-22.2 -2 20.2">
+          <atmospherebubble layer="1" radius="20" blend="0.7099999" />
+        </tile>
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="5 -24 15" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="15 -24 -25" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-5 -24 -25" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-5 -24 25" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-35 -24 -25" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="25 -24 25" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-15 -24 -35" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="5 -24 25" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-35 -24 -15" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-25 -24 25" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-15 -24 -15" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-35 -24 15" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-25 -24 -25" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="5 -24 -35" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="15 -24 -5" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="35 -24 -25" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-15 -24 5" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="35 -24 15" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="5 -24 -25" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="15 -24 5" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-15 -24 35" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="25 -24 15" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-25 -24 -5" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="35 -24 25" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="15 -24 35" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="15 -24 15" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="15 -24 25" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="25 -24 -25" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="15 -24 -35" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-35 -24 25" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="25 -24 -15" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-15 -24 -25" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="25 -24 -5" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-5 -24 -5" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-5 -24 35" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-35 -24 35" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="35 -24 -5" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-25 -24 5" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="35 -24 35" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="5 -24 -5" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-15 -24 25" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="35 -24 -15" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="35 -24 -35" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-35 -24 5" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="5 -24 -15" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-5 -24 -35" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="25 -24 -35" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-25 -24 -15" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-5 -24 15" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-25 -24 -35" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="25 -24 5" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-25 -24 15" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="5 -24 5" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="35 -24 5" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="5 -24 35" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-5 -24 5" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="25 -24 35" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="15 -24 -15" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-35 -24 -5" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-35 -24 -35" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-15 -24 15" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-25 -24 35" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-5 -24 -15" />
+        <tile name="FOREST_GREEN_WATER_sealevel" pos="-15 -24 -5" />
+        <tile name="FOREST_GREEN_PLATEAU_ROCK_8M_DIAGONAL_B_NOCOL_OCEAN" pos="-29 -24 -13" roty="90" />
+        <tile name="FOREST_GREEN_PLATEAU_ROCK_4M_B_NOCOL_OCEAN" pos="-30 -24 -2" />
+        <tile name="FOREST_GREEN_PLATEAU_ROCK_4M_B_NOCOL_OCEAN" pos="16 -24 -29" roty="270" />
+        <tile name="FOREST_GREEN_PLATEAU_ROCK_8M_DIAGONAL_B_NOCOL_OCEAN" pos="-15 -24 29" roty="270" />
+        <tile name="FOREST_GREEN_PLATEAU_ROCK_4M_B_NOCOL_OCEAN" pos="18 -24 29" roty="90" />
+        <tile name="FOREST_GREEN_PLATEAU_ROCK_8M_DIAGONAL_B_NOCOL_OCEAN" pos="-18 -24 -29" />
+        <tile name="FOREST_GREEN_PLATEAU_ROCK_8M_DIAGONAL_B_NOCOL_OCEAN" pos="31 -24 -20" roty="90" />
+        <tile name="FOREST_GREEN_PLATEAU_ROCK_4M_B_NOCOL_OCEAN" pos="11 -24 -34" roty="180" />
+        <tile name="FOREST_GREEN_PLATEAU_ROCK_8M_DIAGONAL_B_NOCOL_OCEAN" pos="32 -24 9" roty="270" />
+      </layer>
+    </layergroup>
+    <layergroup name="Encounter">
+      <layer id="Layer_01" name="Hard">
+        <tile name="SpawnPoint_T6_MOB_MORGANA_CROSSBOWMAN_VETERAN" pos="-19.82 -1.68 1.36">
+          <mobspawnpoint behavior="PATROL">
+            <path>
+              <waypoint pos="-20.24 1.47" idle="3" pace="WALK" />
+              <waypoint pos="-20.24 12.4" idle="0" pace="WALK" />
+              <waypoint pos="-12.63 19.3" idle="3" pace="WALK" />
+              <waypoint pos="-0.3976784 19.29" idle="0" pace="WALK" />
+              <waypoint pos="14.18415 18.95" idle="3" pace="WALK" />
+              <waypoint pos="20.56789 12.14" idle="0" pace="WALK" />
+              <waypoint pos="20.3663 1.103075" idle="3" pace="WALK" />
+              <waypoint pos="20.56789 12.14" idle="0" pace="WALK" />
+              <waypoint pos="14.18415 18.95" idle="3" pace="WALK" />
+              <waypoint pos="-0.3976784 19.29" idle="0" pace="WALK" />
+              <waypoint pos="-12.63 19.3" idle="3" pace="WALK" />
+              <waypoint pos="-20.24 12.4" idle="0" pace="WALK" />
+            </path>
+          </mobspawnpoint>
+        </tile>
+        <tile name="SpawnPoint_T6_MOB_MORGANA_CROSSBOWMAN_VETERAN" pos="19.98 -1.68 -2.24" roty="180">
+          <mobspawnpoint behavior="PATROL">
+            <path>
+              <waypoint pos="20.11211 -2.117468" idle="3" pace="WALK" />
+              <waypoint pos="20.33 -12.66" idle="0" pace="WALK" />
+              <waypoint pos="12.72 -19.42" idle="3" pace="WALK" />
+              <waypoint pos="0.5599976 -19.13" idle="0" pace="WALK" />
+              <waypoint pos="-14.02 -18.93" idle="3" pace="WALK" />
+              <waypoint pos="-20.47 -12.82" idle="0" pace="WALK" />
+              <waypoint pos="-20.2063 -1.983071" idle="3" pace="WALK" />
+              <waypoint pos="-20.47 -12.82" idle="0" pace="WALK" />
+              <waypoint pos="-14.02 -18.93" idle="3" pace="WALK" />
+              <waypoint pos="0.5599976 -19.13" idle="0" pace="WALK" />
+              <waypoint pos="12.72 -19.42" idle="3" pace="WALK" />
+              <waypoint pos="20.33 -12.66" idle="0" pace="WALK" />
+            </path>
+          </mobspawnpoint>
+        </tile>
+        <tile name="SpawnPoint_RANDOM_MORGANA_VETERAN_MAGIC" pos="1.83 -1.68 -16.77" roty="333">
+          <mobspawnpoint behavior="GUARD" spawnbehavior="MORGANA_VETERAN_MAGIC" />
+        </tile>
+        <tile name="SpawnPoint_RANDOM_MORGANA_VETERAN_MAGIC" pos="-1.89 -1.68 -16.82" roty="44.55">
+          <mobspawnpoint behavior="GUARD" spawnbehavior="MORGANA_VETERAN_MAGIC" />
+        </tile>
+        <tile name="SpawnPoint_RANDOM_MORGANA_VETERAN_MAGIC" pos="-2.22 -1.68 17.6" roty="156.59">
+          <mobspawnpoint behavior="GUARD" spawnbehavior="MORGANA_VETERAN_MAGIC" />
+        </tile>
+        <tile name="SpawnPoint_RANDOM_MORGANA_VETERAN_MAGIC" pos="2.45 -1.68 17.51" roty="225">
+          <mobspawnpoint behavior="GUARD" spawnbehavior="MORGANA_VETERAN_MAGIC" />
+        </tile>
+        <tile name="SpawnPoint_RANDOM_MORGANA_VETERAN_MINIBOSS" pos="-2.36 -1.68 2.43" roty="333">
+          <mobspawnpoint behavior="PATROL" spawnbehavior="MORGANA_VETERAN_MINIBOSS">
+            <path>
+              <waypoint pos="-2.428054 2.678999" idle="0" pace="WALK" />
+              <waypoint pos="-16.62983 0.5518608" idle="1" pace="WALK" />
+              <waypoint pos="-2.991118 -1.262461" idle="0" pace="WALK" />
+              <waypoint pos="-0.3017039 -12.90204" idle="1" pace="WALK" />
+              <waypoint pos="2.827226 -1.262462" idle="0" pace="WALK" />
+              <waypoint pos="17.0284 0.04703116" idle="1" pace="WALK" />
+              <waypoint pos="2.202172 2.492612" idle="0" pace="WALK" />
+              <waypoint pos="-0.2383571 14.56595" idle="1" pace="WALK" />
+            </path>
+          </mobspawnpoint>
+        </tile>
+        <tile name="SpawnPoint_RANDOM_MORGANA_VETERAN_CROSSBOWMAN" pos="23.3 -2 21.4" roty="227">
+          <mobspawnpoint behavior="GUARD" spawnbehavior="MORGANA_VETERAN_CROSSBOWMAN" />
+        </tile>
+        <tile name="SpawnPoint_RANDOM_MORGANA_VETERAN_CROSSBOWMAN" pos="-20.5 -2 -23.4" roty="47">
+          <mobspawnpoint behavior="GUARD" spawnbehavior="MORGANA_VETERAN_CROSSBOWMAN" />
+        </tile>
+        <tile name="SpawnPoint_RANDOM_MORGANA_VETERAN_CROSSBOWMAN" pos="-23.5 -2 -20.2" roty="47">
+          <mobspawnpoint behavior="GUARD" spawnbehavior="MORGANA_VETERAN_CROSSBOWMAN" />
+        </tile>
+        <tile name="SpawnPoint_RANDOM_MORGANA_VETERAN_CROSSBOWMAN" pos="20.3 -2 23.8" roty="227">
+          <mobspawnpoint behavior="GUARD" spawnbehavior="MORGANA_VETERAN_CROSSBOWMAN" />
+        </tile>
+      </layer>
+    </layergroup>
+    <tile name="FOREST_GREEN_MOR_MONASTERY_WALL_GATE_STRAIGHT_A_20M" pos="0 0 25" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_WALL_GATE_STRAIGHT_A_20M" pos="0 2 -25" roty="90" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="-5 -2 25" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="-5 -2 15" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="-5 -2 5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="-5 -2 -25" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="-5 -2 -5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="-5 -2 -15" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="5 -2 5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="5 -2 -25" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="5 -2 -5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="5 -2 -15" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="5 -2 25" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="5 -2 15" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="-5 0 35" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="5 0 35" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="-5 0 -35" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="5 0 -35" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="15 -2 25" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="15 -2 15" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="-15 -2 5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="-15 -2 25" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="-15 -2 15" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="-15 -2 -5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_WALL_WINDOW_STRAIGHT_D" pos="-15 0 25" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="15 -2 -25" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="15 -2 -15" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="-15 -2 -15" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="-15 -2 -25" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="-25 -2 5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="-25 -2 -5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="-25 -2 -15" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="-25 -2 15" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="15 -2 5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="15 -2 -5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_WALL_WINDOW_STRAIGHT_D" pos="-15 0 -25" roty="90" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="25 -2 15" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="25 -2 -15" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="25 -2 5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="25 -2 -5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_WALL_WINDOW_STRAIGHT_D" pos="15 0 -25" roty="90" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_WALL_WINDOW_STRAIGHT_D" pos="15 0 25" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="25 -58 25" roty="90" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="25 -58 35" roty="90" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="35 -58 25" roty="90" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="35 -58 35" roty="90" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="-35 -58 -35" roty="90" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="-35 -58 -25" roty="90" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="-25 -58 -35" roty="90" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="-25 -58 -25" roty="90" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="-35 -58 25" roty="90" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="-35 -58 35" roty="90" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="-25 -58 25" roty="90" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="-25 -58 35" roty="90" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="25 -58 -35" roty="90" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="25 -58 -25" roty="90" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="35 -58 -35" roty="90" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A" pos="35 -58 -25" roty="90" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_WALL_OUT_DIAGONAL_A_NOCOL" pos="25 -2 25" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_WALL_OUT_DIAGONAL_A_NOCOL" pos="25 -2 -25" roty="90" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_WALL_OUT_DIAGONAL_A_NOCOL" pos="-25 -2 -25" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_RAILING_BALCONY_DIAGONAL_A" pos="-30 -2 -30" roty="180" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_WALL_OUT_DIAGONAL_A_NOCOL" pos="-25 -1 25" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_RAILING_BALCONY_DIAGONAL_A" pos="-30 -2 30" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_RAILING_BALCONY_DIAGONAL_A" pos="30 -2 30" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_RAILING_BALCONY_DIAGONAL_A" pos="30 -2 -30" roty="90" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_WALL_BALCONY_DIAGONAL_A" pos="30 -2 30" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_WALL_BALCONY_DIAGONAL_A" pos="-30 -2 30" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_WALL_BALCONY_DIAGONAL_A" pos="-30 -2 -30" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_WALL_BALCONY_DIAGONAL_A" pos="30 -2 -30" roty="90" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_WALL_DOOR_DIAGONAL_A" pos="-25 -2 25" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_WALL_DOOR_DIAGONAL_A" pos="25 -2 -25" roty="90" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_WALL_GATE_DIAGONAL_B" pos="25 0 25" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_WALL_GATE_DIAGONAL_B" pos="-25 0 -25" roty="180" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_WALL_OUT_BUTTRESS_A" pos="29 -3 -10" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_WALL_OUT_BUTTRESS_A" pos="29 -3 6" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_WALL_OUT_BUTTRESS_A" pos="-28 -3 6" roty="180" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_WALL_OUT_BUTTRESS_A" pos="-28 -3 -10" roty="180" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_WALL_INNER_STRAIGHT_A" pos="-25 0 -15" roty="180" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_WALL_INNER_STRAIGHT_A" pos="-25 0 5" roty="180" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_WALL_INNER_STRAIGHT_A" pos="-25 0 15" roty="180" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_WALL_INNER_STRAIGHT_A" pos="25 0 5" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_WALL_INNER_STRAIGHT_A" pos="-25 0 -5" roty="180" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_WALL_INNER_STRAIGHT_A" pos="25 0 -15" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_WALL_INNER_STRAIGHT_A" pos="25 0 15" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_WALL_WINDOW_STRAIGHT_F" pos="5 0 35" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_WALL_INNER_STRAIGHT_A" pos="25 0 -5" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_WALL_WINDOW_STRAIGHT_F" pos="5 0 -35" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_WALL_WINDOW_STRAIGHT_F" pos="-5 0 -35" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_WALL_WINDOW_STRAIGHT_F" pos="-5 0 35" roty="180" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A_OBJ" pos="5 -2 35" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A_OBJ" pos="-5 -2 35" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A_OBJ" pos="-5 -2 -35" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_STRAIGHT_A_OBJ" pos="5 -2 -35" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_2M_STAIRS_ANGULAR_A" pos="0 -2 -30" roty="90" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_2M_STAIRS_ANGULAR_A" pos="0 -2 30" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_DOOR_OPENED_A_20M_BLEND" pos="0 0 -30" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_DOOR_OPENED_A_20M_BLEND" pos="0 0 30" roty="90" />
+    <tile name="FOREST_DEAD_MOR_POINT_LIGHT_RED" pos="-0.5 5 -0.5" />
+    <tile name="FOREST_DEAD_MOR_POINT_LIGHT_STD" pos="0.5 4 28.5" />
+    <tile name="FOREST_DEAD_MOR_POINT_LIGHT_STD" pos="0.5 4 -28.5" />
+    <criticaltile name="SHRINE_MORGANA_SILVER_STANDARD" pos="0 -2 0" roty="180" id="shrine_02" type="shrine">
+      <shrine shrinetype="MORGANA_SHRINE_SILVER_STANDARD" />
+    </criticaltile>
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_A" pos="-10 -2 10" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_A" pos="10 -2 -10" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_A" pos="10 -2 -10" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_A" pos="10 -2 10" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_A" pos="10 -2 10" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_A" pos="-10 -2 -10" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_A" pos="-10 -2 -10" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_A" pos="-10 -2 10" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_A" pos="-28 -2 0" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_A" pos="28 -2 14" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_A" pos="28 -2 0" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_A" pos="0 -2 -10" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_A" pos="-20 -2 -10" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_A" pos="-10 -2 -20" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_A" pos="10 -2 -20" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_A" pos="10 -2 20" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_A" pos="-10 -2 20" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_A" pos="10 -2 0" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_A" pos="-10 -2 0" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_A" pos="20 -2 10" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_A" pos="-20 -2 10" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_A" pos="0 -2 10" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_A" pos="20 -2 -10" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_DIAGONAL_A" pos="17 -2 17" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_DIAGONAL_A" pos="17 -2 -17" roty="90" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_DIAGONAL_A" pos="-17 -2 -17" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_DIAGONAL_A" pos="-17 -2 17" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_DIAGONAL_END_A" pos="-20.5 -2 -13.5" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_DIAGONAL_END_A" pos="-13.5 -2 -20.5" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_DIAGONAL_END_A" pos="-13.5 -2 20.5" roty="90" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_DIAGONAL_END_A" pos="-20.5 -2 13.5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_DIAGONAL_END_A" pos="20.5 -2 13.5" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_DIAGONAL_END_A" pos="13.5 -2 -20.5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_DIAGONAL_END_A" pos="20.5 -2 -13.5" roty="90" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_DIAGONAL_END_A" pos="13.5 -2 20.5" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_TSHAPE_A" pos="20 -2 0" roty="90" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_TSHAPE_A" pos="-20 -2 0" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_LIGHT_CANDELABRA_C" pos="-6.5 -2 4.5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_LIGHT_CANDELABRA_C" pos="-6.5 -2 -4.5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_LIGHT_CANDELABRA_C" pos="6.5 -2 -4.5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_LIGHT_CANDELABRA_C" pos="6.5 -2 4.5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_BORDER_STONES_STRAIGHT_A" pos="-7 0 -35" roty="90" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_BORDER_STONES_STRAIGHT_A" pos="7 0 35" roty="90" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_LIGHT_CANDELABRA_D" pos="6.5 -2 -25.5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_BORDER_STONES_STRAIGHT_A" pos="-7 0 35" roty="90" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_GROUND_BORDER_STONES_STRAIGHT_A" pos="7 0 -35" roty="90" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_LIGHT_CANDELABRA_D" pos="6.5 -2 25.5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_LIGHT_CANDELABRA_D" pos="-6.5 -2 -25.5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_LIGHT_CANDELABRA_D" pos="-6.5 -2 25.5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_COLLUMN_A" pos="-9 -2 28" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_COLLUMN_A" pos="9 -2 28" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_COLLUMN_A" pos="-9 -2 -28" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_COLLUMN_A" pos="9 -2 -28" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_COLLUMN_A" pos="-26 -2 -7" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_A" pos="28 -2 -14" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_COLLUMN_A" pos="26 -2 -7" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_A" pos="-28 -2 -14" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_A" pos="-28 -2 14" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_SHORT_A" pos="0 0 -40" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_SHORT_A" pos="0 0 35" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_END_A" pos="0 0 35" roty="90" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_END_A" pos="0 0 -35" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_TSHAPE_A" pos="0 -2 20" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_TSHAPE_A" pos="0 -2 -20" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_ROUND_A" pos="0 -2 0" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_END_A" pos="5 -2 0" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_END_A" pos="-5 -2 0" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_END_A" pos="0 -2 -5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_CARPET_END_A" pos="0 -2 5" roty="90" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_COLLUMN_A" pos="-26 -2 7" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_COLLUMN_A" pos="-27 -2 -21" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_COLLUMN_A" pos="-27 -2 21" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_COLLUMN_A" pos="26 -2 7" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_COLLUMN_A" pos="27 -2 20" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_COLLUMN_A" pos="27 -2 -20" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_COLLUMN_A" pos="-20 -2 -27" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_COLLUMN_A" pos="-20 -2 27" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_COLLUMN_A" pos="20 -2 27" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_COLLUMN_A" pos="20 -2 -27" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_LIGHT_WALL_TORCH_A_POINTLIGHT" pos="8 2 40" roty="180" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_LIGHT_WALL_TORCH_A_POINTLIGHT" pos="-8 2 -40" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_CURTAIN_A" pos="-28 0 14" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_CURTAIN_A" pos="-28 0 0" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_CURTAIN_A" pos="28 0 -17" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_CURTAIN_A" pos="28 0 14" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_CURTAIN_A" pos="-10 0 10" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_CURTAIN_A" pos="10 0 -10" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_CURTAIN_A" pos="-10 0 10" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_CURTAIN_B" pos="10 0 10" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_CURTAIN_B" pos="10 0 -10" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_CURTAIN_B" pos="-10 0 -10" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_CURTAIN_B" pos="-28 0 -14" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_CURTAIN_B" pos="28 0 0" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_CURTAIN_B" pos="10 0 10" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_CURTAIN_B" pos="-10 0 -10" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_LADDER_A" pos="22 -2 12" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_LADDER_A" pos="-22 -2 -2" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_LADDER_A" pos="-22 -2 11" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_BOOKSHELF_LADDER_A" pos="22 -2 -16" roty="180" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_FURNITURE_CHAIR_A" pos="12 -2 -4" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_FURNITURE_CHAIR_A" pos="10 -2 -4" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_FURNITURE_CHAIR_A" pos="8 -2 -4" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_FURNITURE_CHAIR_A" pos="8 -2 4" roty="90" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_FURNITURE_CHAIR_A" pos="10 -2 4" roty="90" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_FURNITURE_CHAIR_A" pos="12 -2 4" roty="90" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_FURNITURE_CHAIR_A" pos="-8 -2 -4" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_FURNITURE_CHAIR_A" pos="-10 -2 -4" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_FURNITURE_CHAIR_A" pos="-12 -2 -4" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_FURNITURE_CHAIR_A" pos="-12 -2 4" roty="90" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_FURNITURE_CHAIR_A" pos="-10 -2 4" roty="90" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_FURNITURE_CHAIR_A" pos="-8 -2 4" roty="90" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_FURNITURE_CHAIR_A" pos="16 -2 -26" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_FURNITURE_CHAIR_A" pos="14 -2 -26" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_FURNITURE_CHAIR_A" pos="12 -2 -26" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_FURNITURE_CHAIR_A" pos="-13 -2 -26" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_FURNITURE_CHAIR_A" pos="-15 -2 -26" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_FURNITURE_CHAIR_A" pos="-17 -2 -26" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_FURNITURE_CHAIR_A" pos="-16 -2 26" roty="90" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_FURNITURE_CHAIR_A" pos="-14 -2 26" roty="90" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_FURNITURE_CHAIR_A" pos="-12 -2 26" roty="90" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_FURNITURE_CHAIR_A" pos="12 -2 26" roty="90" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_FURNITURE_CHAIR_A" pos="14 -2 26" roty="90" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_FURNITURE_CHAIR_A" pos="16 -2 26" roty="90" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_LIGHT_CANDELABRA_A" pos="9.5 -2 15.5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_LIGHT_CANDELABRA_A" pos="-9.5 -2 15.5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_LIGHT_CANDELABRA_A" pos="-9.5 -2 -15.5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_LIGHT_CANDELABRA_A" pos="9.5 -2 -15.5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_A" pos="15 2 15" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_A" pos="-5 2 -15" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_A" pos="5 2 -15" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_A" pos="-15 2 -15" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_A" pos="-15 2 15" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_STRAIGHT_B" pos="5 2 -35" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_A" pos="15 2 -5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_A" pos="-15 2 5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_A" pos="-15 2 -5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_A" pos="15 2 5" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_INNERCORNER_A" pos="5 2 -25" roty="90" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_A" pos="-5 2 15" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_INNERCORNER_A" pos="-5 2 -25" roty="180" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_INNERCORNER_A" pos="5 2 25" roty="0" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_INNERCORNER_A" pos="-5 2 25" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_A" pos="5 2 15" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_STRAIGHT_B" pos="-5 2 -35" roty="180" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_STRAIGHT_B" pos="-5 2 35" roty="180" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_STRAIGHT_B" pos="5 2 35" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_A" pos="15 2 -15" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_CORNER_A" pos="25 2 -25" roty="90" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_STRAIGHT_B" pos="15 2 -25" roty="90" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_STRAIGHT_B" pos="-15 2 -25" roty="90" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_CORNER_A" pos="-25 2 25" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_STRAIGHT_B" pos="25 2 -5" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_STRAIGHT_B" pos="25 2 5" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_STRAIGHT_B" pos="25 2 -15" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_STRAIGHT_B" pos="25 2 15" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_STRAIGHT_B" pos="-25 2 15" roty="180" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_STRAIGHT_B" pos="-25 2 -5" roty="180" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_STRAIGHT_B" pos="-25 2 5" roty="180" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_STRAIGHT_B" pos="-25 2 -15" roty="180" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_STRAIGHT_B" pos="-15 2 25" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_STRAIGHT_B" pos="15 2 25" roty="270" />
+    <tile name="FOREST_GREEN_MOR_MONASTERY_ROOF_20X20_A" pos="0 2 0" roty="270" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_CORNER_A" pos="-25 2 -25" roty="180" />
+    <tile name="FOREST_GREEN_MOR_CASTLE_ROOF_CORNER_A" pos="25 2 25" />
+  </tiles>
+</template>
