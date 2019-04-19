@@ -1,3 +1,5 @@
+### EZ IT A  netről van és python 2.7 es
+
 from bs4 import BeautifulSoup
 import urllib
 import json

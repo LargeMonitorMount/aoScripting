@@ -1,7 +1,7 @@
 import csv
 import json
 import urllib.request
-cities = "Martlock,Bridgewatch" ## vesszővel pl. Martlock,Bridgewatch
+cities = "?locations=Martlock" ## vesszővel pl. Martlock,Bridgewatch
 
 l = csv.writer(open("test.csv", 'w', newline=''))
 l.writerow(["item_id", "city", "quality", "sell_price_min", "sell_price_min_date", "sell_price_max", "sell_price_max_date", "buy_price_min", "buy_price_min_date", "buy_price_max", "buy_price_max_date"])
@@ -9,7 +9,7 @@ l.writerow(["item_id", "city", "quality", "sell_price_min", "sell_price_min_date
 
 with open("items.txt") as g:
 	for item in g:
-		url = "https://www.albion-online-data.com/api/v1/stats/prices/"+item.strip()
+		url = "https://www.albion-online-data.com/api/v1/stats/prices/"+item.strip()+cities
 		print (item.strip(), url)
 		
 		contents = urllib.request.urlopen(url).read()
