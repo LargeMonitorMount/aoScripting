@@ -12,11 +12,12 @@ with open("items.txt") as g:
 		url = "https://www.albion-online-data.com/api/v1/stats/prices/"+item.strip()+cities
 		print (item.strip(), url)
 		
-		contents = urllib.request.urlopen(url).read()
-		x = json.loads(contents)
-
-		for x in x:
-			l.writerow([x["item_id"],
+		try:	
+			contents = urllib.request.urlopen(url).read()
+		
+			x = json.loads(contents)
+			for x in x:
+				l.writerow([x["item_id"],
 						x["city"],
 						x ["quality"],
 						x ["sell_price_min"],
@@ -27,3 +28,8 @@ with open("items.txt") as g:
 						x ["buy_price_min_date"],
 						x ["buy_price_max"],
 						x ["buy_price_max_date"]])
+			
+			
+			
+		except urllib.error.URLError as e: print(e.reason)
+		
