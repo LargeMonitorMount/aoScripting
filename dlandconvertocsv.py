@@ -1,7 +1,7 @@
 import csv
 import json
 import urllib.request
-cities = "?locations=Martlock" ## vesszővel pl. Martlock,Bridgewatch
+cities = "?locations=Martlock" ## vesszel pl. Martlock,Bridgewatch
 
 l = csv.writer(open("test.csv", 'w', newline=''))
 l.writerow(["item_id", "city", "quality", "sell_price_min", "sell_price_min_date", "sell_price_max", "sell_price_max_date", "buy_price_min", "buy_price_min_date", "buy_price_max", "buy_price_max_date"])
@@ -13,7 +13,7 @@ with open("items.txt") as g:
 		print (item.strip(), url)
 		
 		try:	
-			contents = urllib.request.urlopen(url).read()
+			contents = urllib.request.urlopen(url).read().decode('utf-8')
 		
 			x = json.loads(contents)
 			for x in x:
