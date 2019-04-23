@@ -1,24 +1,262 @@
-2019-04-23 02:02:02.021697
+2019-04-23 09:45:49.123758
 ItemName|Krafting Price| selling price|porfit?/item| reci
+T4_FURNITUREITEM_REPAIRKIT | 2352 | 10300 | 7948 | {'T4_PLANKS': '8' and 'T4_METALBAR': '8'}
+T1_FISHINGBAIT | 259 | 391 | 132 | {'T1_WORM': '1'}
+T3_FISHINGBAIT | 1295 | 5000 | 3705 | {'T1_WORM': '5'}
+T5_FISHINGBAIT | 6475 | 11000 | 4525 | {'T1_WORM': '25'}
 T1_MEAL_GRILLEDFISH | 190 | 299 | 109 | {'T1_FISHCHOPS': '10'}
 T1_MEAL_SEAWEEDSALAD | 3280 | 9000 | 5720 | {'T1_SEAWEED': '10'}
-T3_MEAL_SOUP_FISH | 2511 | 4000 | 1489 | {'T3_MEAT': '2' and 'T3_WHEAT': '2' and 'T3_COMFREY': '2' and 'T5_FISH_FRESHWATER_SWAMP_RARE': '1'}
-T2_MEAL_SALAD_FISH | 859 | 2350 | 1491 | {'T2_AGARIC': '1' and 'T2_BEAN': '1' and 'T3_FISH_SALTWATER_ALL_RARE': '1'}
+T3_MEAL_SOUP_FISH | 2511 | 4000 | 1489 | {'T3_MEAT': '2' and 'T3_WHEAT': '2' and 'T5_FISH_FRESHWATER_SWAMP_RARE': '1' and 'T3_COMFREY': '2'}
+T2_MEAL_SALAD_FISH | 859 | 2350 | 1491 | {'T2_AGARIC': '1' and 'T3_FISH_SALTWATER_ALL_RARE': '1' and 'T2_BEAN': '1'}
 T3_MEAL_OMELETTE_FISH | 731 | 2693 | 1962 | {'T3_EGG': '1' and 'T3_FISH_FRESHWATER_STEPPE_RARE': '1' and 'T3_COMFREY': '1'}
-T5_MEAL_OMELETTE_FISH | 2549 | 4500 | 1951 | {'T5_TEASEL': '2' and 'T5_FISH_FRESHWATER_STEPPE_RARE': '1' and 'T5_EGG': '2' and 'T5_CABBAGE': '2'}
-T4_MEAL_STEW_FISH | 850 | 4100 | 3250 | {'T4_TURNIP': '1' and 'T3_FISH_FRESHWATER_FOREST_RARE': '1' and 'T4_BURDOCK': '1'}
-T6_MEAL_STEW_FISH | 3163 | 5500 | 2337 | {'T6_MILK': '2' and 'T6_FOXGLOVE': '2' and 'T5_FISH_FRESHWATER_FOREST_RARE': '1' and 'T6_POTATO': '2'}
-T4_MEAL_SANDWICH_FISH | 419 | 1200 | 781 | {'T4_TURNIP': '1' and 'T3_FISH_FRESHWATER_HIGHLANDS_RARE': '1' and 'T4_BUTTER': '1'}
-T2_OFF_SHIELD | 44 | 50 | 6 | {'T2_PLANKS': '4' and 'T2_METALBAR': '4'}
-T4_OFF_SHIELD | 1244 | 2010 | 766 | {'T4_PLANKS': '4' and 'T4_METALBAR': '4'}
-T5_OFF_SHIELD | 13064 | 150000 | 136936 | {'T5_PLANKS': '4' and 'T5_METALBAR': '4'}
-T4_OFF_BOOK | 1324 | 1900 | 576 | {'T4_CLOTH': '4' and 'T4_LEATHER': '4'}
-T5_OFF_DEMONSKULL_HELL | 29576 | 100000 | 70424 | {'T5_ARTEFACT_OFF_DEMONSKULL_HELL': '1' and 'T5_CLOTH': '4' and 'T5_LEATHER': '4'}
-T6_OFF_DEMONSKULL_HELL | 44396 | 112000 | 67604 | {'T6_ARTEFACT_OFF_DEMONSKULL_HELL': '1' and 'T6_LEATHER': '4' and 'T6_CLOTH': '4'}
-T7_OFF_DEMONSKULL_HELL | 112575 | 139999 | 27424 | {'T7_LEATHER': '4' and 'T7_ARTEFACT_OFF_DEMONSKULL_HELL': '1' and 'T7_CLOTH': '4'}
-T3_OFF_TORCH | 420 | 1335 | 915 | {'T3_CLOTH': '4' and 'T3_PLANKS': '4'}
-T2_CAPE | 124 | 179 | 55 | {'T2_CLOTH': '4' and 'T2_LEATHER': '4'}
-T4_CAPE | 1324 | 2500 | 1176 | {'T4_CLOTH': '4' and 'T4_LEATHER': '4'}
-T5_CAPE | 14576 | 17999 | 3423 | {'T5_CLOTH': '4' and 'T5_LEATHER': '4'}
-T4_CAPEITEM_FW_LYMHURST | 70498 | 149999 | 79501 | {'T1_FACTION_FOREST_TOKEN_1': '1' and 'T4_CAPE': '1' and 'T4_CAPEITEM_FW_LYMHURST_BP': '1'}
-T5_CAPEITEM_FW_LYMHURST | 191998 | 280000 | 88002 | {'T5_CAPE': '1' and 'T1_FACTION_FOREST_TOKEN_1': '1' and 'T5_CAPEITEM_FW_LYMHURST_BP': '1'}
+T5_MEAL_OMELETTE_FISH | 2549 | 4500 | 1951 | {'T5_CABBAGE': '2' and 'T5_EGG': '2' and 'T5_TEASEL': '2' and 'T5_FISH_FRESHWATER_STEPPE_RARE': '1'}
+T4_MEAL_STEW_FISH | 850 | 4100 | 3250 | {'T4_BURDOCK': '1' and 'T4_TURNIP': '1' and 'T3_FISH_FRESHWATER_FOREST_RARE': '1'}
+T6_MEAL_STEW_FISH | 3163 | 5500 | 2337 | {'T6_FOXGLOVE': '2' and 'T6_MILK': '2' and 'T6_POTATO': '2' and 'T5_FISH_FRESHWATER_FOREST_RARE': '1'}
+T4_MEAL_SANDWICH_FISH | 419 | 1200 | 781 | {'T4_BUTTER': '1' and 'T3_FISH_FRESHWATER_HIGHLANDS_RARE': '1' and 'T4_TURNIP': '1'}
+T4_OFF_SHIELD | 1176 | 2010 | 834 | {'T4_PLANKS': '4' and 'T4_METALBAR': '4'}
+T5_OFF_SHIELD | 13260 | 150000 | 136740 | {'T5_METALBAR': '4' and 'T5_PLANKS': '4'}
+T4_OFF_BOOK | 1292 | 1900 | 608 | {'T4_LEATHER': '4' and 'T4_CLOTH': '4'}
+T5_OFF_DEMONSKULL_HELL | 29576 | 100000 | 70424 | {'T5_LEATHER': '4' and 'T5_ARTEFACT_OFF_DEMONSKULL_HELL': '1' and 'T5_CLOTH': '4'}
+T6_OFF_DEMONSKULL_HELL | 44396 | 112000 | 67604 | {'T6_CLOTH': '4' and 'T6_ARTEFACT_OFF_DEMONSKULL_HELL': '1' and 'T6_LEATHER': '4'}
+T7_OFF_DEMONSKULL_HELL | 112575 | 139999 | 27424 | {'T7_ARTEFACT_OFF_DEMONSKULL_HELL': '1' and 'T7_LEATHER': '4' and 'T7_CLOTH': '4'}
+T3_OFF_TORCH | 420 | 1335 | 915 | {'T3_PLANKS': '4' and 'T3_CLOTH': '4'}
+T2_CAPE | 120 | 179 | 59 | {'T2_LEATHER': '4' and 'T2_CLOTH': '4'}
+T4_CAPE | 1292 | 2500 | 1208 | {'T4_LEATHER': '4' and 'T4_CLOTH': '4'}
+T5_CAPE | 14576 | 17999 | 3423 | {'T5_LEATHER': '4' and 'T5_CLOTH': '4'}
+T4_CAPEITEM_FW_LYMHURST | 70498 | 149999 | 79501 | {'T4_CAPE': '1' and 'T4_CAPEITEM_FW_LYMHURST_BP': '1' and 'T1_FACTION_FOREST_TOKEN_1': '1'}
+T5_CAPEITEM_FW_LYMHURST | 191998 | 280000 | 88002 | {'T5_CAPE': '1' and 'T5_CAPEITEM_FW_LYMHURST_BP': '1' and 'T1_FACTION_FOREST_TOKEN_1': '1'}
+T5_CAPEITEM_HERETIC | 86993 | 115000 | 28007 | {'T5_CAPE': '1' and 'T5_CAPEITEM_HERETIC_BP': '1' and 'T1_FACTION_FOREST_TOKEN_1': '1'}
+T5_CAPEITEM_KEEPER | 93364 | 300000 | 206636 | {'T5_CAPE': '1' and 'T5_CAPEITEM_KEEPER_BP': '1' and 'T1_FACTION_HIGHLAND_TOKEN_1': '1'}
+T4_CAPEITEM_DEMON | 146499 | 250000 | 103501 | {'T4_CAPE': '1' and 'T4_CAPEITEM_DEMON_BP': '1' and 'T1_FACTION_STEPPE_TOKEN_1': '1'}
+T5_BAG | 29152 | 185000 | 155848 | {'T5_LEATHER': '8' and 'T5_CLOTH': '8'}
+T7_BAG | 117152 | 269999 | 152847 | {'T7_LEATHER': '8' and 'T7_CLOTH': '8'}
+T6_CAPE_LEATHER_UNDEAD | 29396 | 1249998 | 1220602 | {'T6_CLOTH': '4' and 'T6_LEATHER': '4'}
+UNIQUE_ARMOR_FOUNDER_ELITE | 384 | 8500 | 8116 | {'T2_LEATHER': '16'}
+UNIQUE_CAPE_STARTERPACK_LEGENDARY | 492 | 25000 | 24508 | {'T3_LEATHER': '4' and 'T3_CLOTH': '4'}
+UNIQUE_HEAD_STARTERPACK_LEGENDARY | 288 | 29998 | 29710 | {'T3_METALBAR': '8'}
+UNIQUE_ARMOR_STARTERPACK_LEGENDARY | 576 | 30000 | 29424 | {'T3_METALBAR': '16'}
+UNIQUE_SHOES_STARTERPACK_LEGENDARY | 288 | 30000 | 29712 | {'T3_METALBAR': '8'}
+UNIQUE_ARMOR_STARTERPACK_ELITE | 384 | 40000 | 39616 | {'T2_LEATHER': '16'}
+UNIQUE_HEAD_VANITY_ARENA_EYEPATCH | 26820 | 149000 | 122180 | {'QUESTITEM_TOKEN_ARENA_UNRANKED': '15'}
+UNIQUE_HEAD_VANITY_JESTER | 192 | 245000 | 244808 | {'T2_LEATHER': '8'}
+UNIQUE_ARMOR_VANITY_JESTER | 384 | 255000 | 254616 | {'T2_LEATHER': '16'}
+UNIQUE_SHOES_VANITY_JESTER | 192 | 75000 | 74808 | {'T2_LEATHER': '8'}
+UNIQUE_HEAD_VANITY_EASTER_BROWN | 40000 | 89999 | 49999 | {'QUESTITEM_TOKEN_EVENT_EASTER_2018': '5000'}
+UNIQUE_ARMOR_VANITY_EASTER | 24000 | 250000 | 226000 | {'QUESTITEM_TOKEN_EVENT_EASTER_2018': '3000'}
+UNIQUE_SHOES_VANITY_EASTER | 8000 | 28000 | 20000 | {'QUESTITEM_TOKEN_EVENT_EASTER_2018': '1000'}
+UNIQUE_BACKPACK_VANITY_EASTER | 4215 | 15000 | 10785 | {'T3_CAPE': '1' and 'QUESTITEM_TOKEN_EVENT_EASTER_2018': '500'}
+T8_ARMOR_PLATE_SET1 | 312000 | 555554 | 243554 | {'T8_METALBAR': '16'}
+T5_HEAD_PLATE_SET3 | 13176 | 17000 | 3824 | {'T5_METALBAR': '8'}
+T4_ARMOR_PLATE_SET3 | 2240 | 3850 | 1610 | {'T4_METALBAR': '16'}
+T8_ARMOR_PLATE_SET3 | 312000 | 499000 | 187000 | {'T8_METALBAR': '16'}
+T4_HEAD_PLATE_UNDEAD | 8118 | 40000 | 31882 | {'T4_ARTEFACT_HEAD_PLATE_UNDEAD': '1' and 'T4_METALBAR': '8'}
+T4_ARMOR_PLATE_HELL | 22240 | 150000 | 127760 | {'T4_ARTEFACT_ARMOR_PLATE_HELL': '1' and 'T4_METALBAR': '16'}
+T5_ARMOR_PLATE_HELL | 40351 | 57495 | 17144 | {'T5_METALBAR': '16' and 'T5_ARTEFACT_ARMOR_PLATE_HELL': '1'}
+T5_SHOES_PLATE_HELL | 22176 | 44495 | 22319 | {'T5_METALBAR': '8' and 'T5_ARTEFACT_SHOES_PLATE_HELL': '1'}
+T1_ARMOR_LEATHER_SET1 | 24 | 130 | 106 | {'T1_HIDE': '8'}
+T4_ARMOR_LEATHER_SET1 | 2592 | 3999 | 1407 | {'T4_LEATHER': '16'}
+T5_ARMOR_LEATHER_SET1 | 28000 | 85000 | 57000 | {'T5_LEATHER': '16'}
+T5_ARMOR_LEATHER_SET2 | 28000 | 29340 | 1340 | {'T5_LEATHER': '16'}
+T5_SHOES_LEATHER_SET2 | 14000 | 18200 | 4200 | {'T5_LEATHER': '8'}
+T7_ARMOR_LEATHER_SET3 | 111104 | 199999 | 88895 | {'T7_LEATHER': '16'}
+T5_SHOES_LEATHER_SET3 | 14000 | 18000 | 4000 | {'T5_LEATHER': '8'}
+T5_HEAD_LEATHER_MORGANA | 17500 | 40890 | 23390 | {'T5_LEATHER': '8' and 'T5_ARTEFACT_HEAD_LEATHER_MORGANA': '1'}
+T5_ARMOR_LEATHER_MORGANA | 30797 | 150000 | 119203 | {'T5_LEATHER': '16' and 'T5_ARTEFACT_ARMOR_LEATHER_MORGANA': '1'}
+T4_SHOES_LEATHER_MORGANA | 4294 | 7950 | 3656 | {'T4_LEATHER': '8' and 'T4_ARTEFACT_SHOES_LEATHER_MORGANA': '1'}
+T5_SHOES_LEATHER_MORGANA | 15400 | 40000 | 24600 | {'T5_LEATHER': '8' and 'T5_ARTEFACT_SHOES_LEATHER_MORGANA': '1'}
+T5_HEAD_LEATHER_HELL | 24000 | 89999 | 65999 | {'T5_LEATHER': '8' and 'T5_ARTEFACT_HEAD_LEATHER_HELL': '1'}
+T5_ARMOR_LEATHER_HELL | 67999 | 199999 | 132000 | {'T5_ARTEFACT_ARMOR_LEATHER_HELL': '1' and 'T5_LEATHER': '16'}
+T5_SHOES_LEATHER_HELL | 39000 | 95000 | 56000 | {'T5_LEATHER': '8' and 'T5_ARTEFACT_SHOES_LEATHER_HELL': '1'}
+T2_HEAD_CLOTH_SET1 | 48 | 49 | 1 | {'T2_CLOTH': '8'}
+T3_HEAD_CLOTH_SET1 | 392 | 8600 | 8208 | {'T3_CLOTH': '8'}
+T5_HEAD_CLOTH_SET1 | 15152 | 30000 | 14848 | {'T5_CLOTH': '8'}
+T6_HEAD_CLOTH_SET1 | 31200 | 33900 | 2700 | {'T6_CLOTH': '8'}
+T2_ARMOR_CLOTH_SET1 | 96 | 108 | 12 | {'T2_CLOTH': '16'}
+T8_ARMOR_CLOTH_SET1 | 379984 | 950000 | 570016 | {'T8_CLOTH': '16'}
+T2_SHOES_CLOTH_SET1 | 48 | 49 | 1 | {'T2_CLOTH': '8'}
+T6_HEAD_CLOTH_SET2 | 31200 | 33997 | 2797 | {'T6_CLOTH': '8'}
+T6_SHOES_CLOTH_SET2 | 31200 | 149999 | 118799 | {'T6_CLOTH': '8'}
+T6_HEAD_CLOTH_SET3 | 31200 | 33999 | 2799 | {'T6_CLOTH': '8'}
+T5_ARMOR_CLOTH_KEEPER | 35304 | 100000 | 64696 | {'T5_ARTEFACT_ARMOR_CLOTH_KEEPER': '1' and 'T5_CLOTH': '16'}
+T4_SHOES_CLOTH_KEEPER | 2688 | 16500 | 13812 | {'T4_CLOTH': '8' and 'T4_ARTEFACT_SHOES_CLOTH_KEEPER': '1'}
+T5_SHOES_CLOTH_KEEPER | 16552 | 17000 | 448 | {'T5_ARTEFACT_SHOES_CLOTH_KEEPER': '1' and 'T5_CLOTH': '8'}
+T4_ARMOR_CLOTH_HELL | 23576 | 38000 | 14424 | {'T4_ARTEFACT_ARMOR_CLOTH_HELL': '1' and 'T4_CLOTH': '16'}
+T6_HEAD_CLOTH_ROYAL | 207191 | 230000 | 22809 | {'T6_HEAD_CLOTH_SET2': '1' and 'QUESTITEM_TOKEN_ROYAL_T6': '8'}
+T4_ARMOR_CLOTH_ROYAL | 50755 | 96000 | 45245 | {'T4_ARMOR_CLOTH_SET1': '1' and 'QUESTITEM_TOKEN_ROYAL_T4': '4'}
+T4_SHOES_CLOTH_ROYAL | 25590 | 144444 | 118854 | {'T4_SHOES_CLOTH_SET1': '1' and 'QUESTITEM_TOKEN_ROYAL_T4': '2'}
+T5_SHOES_CLOTH_ROYAL | 82336 | 177000 | 94664 | {'QUESTITEM_TOKEN_ROYAL_T5': '4' and 'T5_SHOES_CLOTH_SET3': '1'}
+T4_ARMOR_PLATE_ROYAL | 50698 | 99989 | 49291 | {'T4_ARMOR_PLATE_SET2': '1' and 'QUESTITEM_TOKEN_ROYAL_T4': '4'}
+T4_SHOES_PLATE_ROYAL | 25487 | 80000 | 54513 | {'T4_SHOES_PLATE_SET2': '1' and 'QUESTITEM_TOKEN_ROYAL_T4': '2'}
+T4_HEAD_GATHERER_FIBER | 1288 | 1588 | 300 | {'T4_CLOTH': '8'}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+T8_ARTEFACT_MAIN_SPE
+T7_CLOTH | 8135 | 8497 | 362 | {'T6_CLOTH': '1' and 'T7_FIBER': '5'}
+T4_ARTEFACT_2H_BOW_HELL | 22400 | 33000 | 10600 | {'T4_SOUL': '50'}
+T4_ARTEFACT_2H_CURSEDSTAFF_MORGANA | 136450 | 150000 | 13550 | {'T4_RELIC': '50'}
+T5_ARTEFACT_2H_CURSEDSTAFF_MORGANA | 124950 | 345000 | 220050 | {'T5_RELIC': '50'}
+T4_ARTEFACT_2H_DUALHAMMER_HELL | 22400 | 115000 | 92600 | {'T4_SOUL': '50'}
+T8_ARTEFACT_MAIN_RAPIER_MORGANA | 111450 | 165000 | 53550 | {'T8_RUNE': '50'}
+T7_ARTEFACT_OFF_TOWERSHIELD_UNDEAD | 50000 | 52000 | 2000 | {'T7_RUNE': '50'}
+T8_ARTEFACT_OFF_TOWERSHIELD_UNDEAD | 111450 | 150000 | 38550 | {'T8_RUNE': '50'}
+T6_ARTEFACT_OFF_SPIKEDSHIELD_MORGANA | 174850 | 200000 | 25150 | {'T6_RELIC': '50'}
+T5_ARTEFACT_OFF_DEMONSKULL_HELL | 36500 | 54000 | 17500 | {'T5_SOUL': '50'}
+T4_ARTEFACT_OFF_HORN_KEEPER | 4950 | 36991 | 32041 | {'T4_RUNE': '50'}
+T5_ARTEFACT_OFF_HORN_KEEPER | 6250 | 6494 | 244 | {'T5_RUNE': '50'}
+T5_ARTEFACT_OFF_JESTERCANE_HELL | 36500 | 40000 | 3500 | {'T5_SOUL': '50'}
+T4_ARTEFACT_OFF_LAMP_UNDEAD | 136450 | 750000 | 613550 | {'T4_RELIC': '50'}
+T4_ARTEFACT_HEAD_PLATE_UNDEAD | 4950 | 6998 | 2048 | {'T4_RUNE': '50'}
+T5_ARTEFACT_HEAD_PLATE_HELL | 36500 | 55000 | 18500 | {'T5_SOUL': '50'}
+T4_ARTEFACT_ARMOR_PLATE_HELL | 22400 | 100000 | 77600 | {'T4_SOUL': '50'}
+T5_ARTEFACT_ARMOR_PLATE_HELL | 36500 | 43000 | 6500 | {'T5_SOUL': '50'}
+T5_ARTEFACT_SHOES_PLATE_HELL | 36500 | 45000 | 8500 | {'T5_SOUL': '50'}
+T6_ARTEFACT_ARMOR_PLATE_KEEPER | 174850 | 419998 | 245148 | {'T6_RELIC': '50'}
+T4_ARTEFACT_HEAD_LEATHER_MORGANA | 4950 | 8000 | 3050 | {'T4_RUNE': '50'}
+T5_ARTEFACT_HEAD_LEATHER_MORGANA | 6250 | 10000 | 3750 | {'T5_RUNE': '50'}
+T4_ARTEFACT_SHOES_LEATHER_MORGANA | 4950 | 8000 | 3050 | {'T4_RUNE': '50'}
+T6_ARTEFACT_SHOES_LEATHER_MORGANA | 25000 | 75000 | 50000 | {'T6_RUNE': '50'}
+T7_ARTEFACT_SHOES_LEATHER_MORGANA | 50000 | 150000 | 100000 | {'T7_RUNE': '50'}
+T5_ARTEFACT_HEAD_LEATHER_HELL | 36500 | 40000 | 3500 | {'T5_SOUL': '50'}
+T4_ARTEFACT_ARMOR_LEATHER_HELL | 22400 | 188946 | 166546 | {'T4_SOUL': '50'}
+T5_ARTEFACT_ARMOR_LEATHER_HELL | 36500 | 100000 | 63500 | {'T5_SOUL': '50'}
+T5_ARTEFACT_SHOES_LEATHER_HELL | 36500 | 90000 | 53500 | {'T5_SOUL': '50'}
+T5_ARTEFACT_ARMOR_LEATHER_UNDEAD | 124950 | 245000 | 120050 | {'T5_RELIC': '50'}
+T5_ARTEFACT_ARMOR_CLOTH_KEEPER | 6250 | 9496 | 3246 | {'T5_RUNE': '50'}
+T6_ARTEFACT_ARMOR_CLOTH_KEEPER | 25000 | 45000 | 20000 | {'T6_RUNE': '50'}
+T4_ARTEFACT_ARMOR_CLOTH_MORGANA | 136450 | 450000 | 313550 | {'T4_RELIC': '50'}
+T5_ARTEFACT_ARMOR_CLOTH_MORGANA | 124950 | 570000 | 445050 | {'T5_RELIC': '50'}
+T6_ARTEFACT_ARMOR_CLOTH_MORGANA | 174850 | 850000 | 675150 | {'T6_RELIC': '50'}
+T7_ARTEFACT_ARMOR_CLOTH_MORGANA | 599950 | 999999 | 400049 | {'T7_RELIC': '50'}
+T4_SOUL | 99 | 626 | 527 | {'T4_RUNE': '1'}
+T4_RELIC | 448 | 3299 | 2851 | {'T4_SOUL': '1'}
+T5_SOUL | 125 | 730 | 605 | {'T5_RUNE': '1'}
+T5_RELIC | 730 | 2499 | 1769 | {'T5_SOUL': '1'}
+T6_ESSENCE_POTION | 4000 | 7498 | 3498 | {'T5_ESSENCE_POTION': '10'}
+T6_RUNE | 625 | 697 | 72 | {'T5_RUNE': '5'}
+T6_SOUL | 500 | 1090 | 590 | {'T6_RUNE': '1'}
+T6_RELIC | 1090 | 10000 | 8910 | {'T6_SOUL': '1'}
+T7_SOUL | 1000 | 4989 | 3989 | {'T7_RUNE': '1'}
+T7_RELIC | 4500 | 88165 | 83665 | {'T7_SOUL': '1'}
+T8_RUNE | 5000 | 7949 | 2949 | {'T7_RUNE': '5'}
+T8_SOUL | 2229 | 40000 | 37771 | {'T8_RUNE': '1'}
+T8_RELIC | 11000 | 450000 | 439000 | {'T8_SOUL': '1'}
+T4_CAPEITEM_HERETIC_BP | 4950 | 5000 | 50 | {'T4_RUNE': '50'}
+T5_CAPEITEM_HERETIC_BP | 6250 | 20000 | 13750 | {'T5_RUNE': '50'}
+T6_CAPEITEM_HERETIC_BP | 25000 | 70000 | 45000 | {'T6_RUNE': '50'}
+T7_CAPEITEM_HERETIC_BP | 50000 | 500000 | 450000 | {'T7_RUNE': '50'}
+T4_CAPEITEM_UNDEAD_BP | 4950 | 20000 | 15050 | {'T4_RUNE': '50'}
+T5_CAPEITEM_UNDEAD_BP | 6250 | 50000 | 43750 | {'T5_RUNE': '50'}
+T5_CAPEITEM_KEEPER_BP | 6250 | 26000 | 19750 | {'T5_RUNE': '50'}
+T4_CAPEITEM_DEMON_BP | 4950 | 150000 | 145050 | {'T4_RUNE': '50'}
+T6_CAPEITEM_DEMON_BP | 25000 | 300000 | 275000 | {'T6_RUNE': '50'}
+T5_2H_TOOL_PICK | 13302 | 18000 | 4698 | {'T5_METALBAR': '2' and 'T5_PLANKS': '6'}
+T2_2H_TOOL_HAMMER | 58 | 62 | 4 | {'T2_METALBAR': '2' and 'T2_PLANKS': '6'}
+T3_2H_TOOL_HAMMER | 408 | 7000 | 6592 | {'T3_PLANKS': '6' and 'T3_METALBAR': '2'}
+T4_2H_TOOL_HAMMER | 1204 | 7388 | 6184 | {'T4_METALBAR': '2' and 'T4_PLANKS': '6'}
+T5_2H_TOOL_HAMMER | 13302 | 19999 | 6697 | {'T5_METALBAR': '2' and 'T5_PLANKS': '6'}
+T6_2H_TOOL_HAMMER | 29200 | 35000 | 5800 | {'T6_METALBAR': '2' and 'T6_PLANKS': '6'}
+T5_2H_TOOL_AXE | 13302 | 38000 | 24698 | {'T5_METALBAR': '2' and 'T5_PLANKS': '6'}
+T1_2H_TOOL_SICKLE | 156 | 200 | 44 | {'T1_ROCK': '3' and 'T1_WOOD': '3'}
+T2_2H_TOOL_SICKLE | 58 | 200 | 142 | {'T2_METALBAR': '2' and 'T2_PLANKS': '6'}
+T4_2H_TOOL_SICKLE | 1204 | 25000 | 23796 | {'T4_METALBAR': '2' and 'T4_PLANKS': '6'}
+T5_2H_TOOL_SICKLE | 13302 | 24500 | 11198 | {'T5_METALBAR': '2' and 'T5_PLANKS': '6'}
+T2_2H_TOOL_KNIFE | 58 | 86 | 28 | {'T2_METALBAR': '2' and 'T2_PLANKS': '6'}
+T4_2H_TOOL_KNIFE | 1204 | 3800 | 2596 | {'T4_METALBAR': '2' and 'T4_PLANKS': '6'}
+T2_2H_TOOL_SIEGEHAMMER | 336 | 898 | 562 | {'T2_PLANKS': '12' and 'T2_STONEBLOCK': '12'}
+T4_2H_TOOL_SIEGEHAMMER | 2552 | 6999 | 4447 | {'T4_PLANKS': '8' and 'T4_STONEBLOCK': '8'}
+T3_2H_TOOL_FISHINGROD | 434 | 600 | 166 | {'T3_CLOTH': '2' and 'T3_PLANKS': '6'}
+T4_2H_TOOL_FISHINGROD | 1246 | 2100 | 854 | {'T4_PLANKS': '6' and 'T4_CLOTH': '2'}
+T2_2H_BOW | 256 | 268 | 12 | {'T2_PLANKS': '32'}
+T4_2H_WARBOW | 4928 | 8400 | 3472 | {'T4_PLANKS': '32'}
+T5_2H_CROSSBOW | 53124 | 190000 | 136876 | {'T5_METALBAR': '12' and 'T5_PLANKS': '20'}
+T5_MAIN_1HCROSSBOW | 39864 | 92000 | 52136 | {'T5_METALBAR': '8' and 'T5_PLANKS': '16'}
+T6_MAIN_1HCROSSBOW | 87200 | 315000 | 227800 | {'T6_METALBAR': '8' and 'T6_PLANKS': '16'}
+T4_2H_REPEATINGCROSSBOW_UNDEAD | 5820 | 12000 | 6180 | {'T4_METALBAR': '12' and 'T4_ARTEFACT_2H_REPEATINGCROSSBOW_UNDEAD': '1' and 'T4_PLANKS': '20'}
+T4_MAIN_CURSEDSTAFF | 3584 | 4488 | 904 | {'T4_METALBAR': '8' and 'T4_PLANKS': '16'}
+T6_MAIN_CURSEDSTAFF | 87200 | 99999 | 12799 | {'T6_METALBAR': '8' and 'T6_PLANKS': '16'}
+T8_2H_CURSEDSTAFF | 734000 | 2156349 | 1422349 | {'T8_PLANKS': '20' and 'T8_METALBAR': '12'}
+T4_2H_DEMONICSTAFF | 4760 | 10000 | 5240 | {'T4_METALBAR': '12' and 'T4_PLANKS': '20'}
+T5_2H_DEMONICSTAFF | 53124 | 59996 | 6872 | {'T5_METALBAR': '12' and 'T5_PLANKS': '20'}
+T4_MAIN_CURSEDSTAFF_UNDEAD | 4984 | 5999 | 1015 | {'T4_METALBAR': '8' and 'T4_ARTEFACT_MAIN_CURSEDSTAFF_UNDEAD': '1' and 'T4_PLANKS': '16'}
+T4_2H_SKULLORB_HELL | 19259 | 99999 | 80740 | {'T4_METALBAR': '12' and 'T4_ARTEFACT_2H_SKULLORB_HELL': '1' and 'T4_PLANKS': '20'}
+T6_2H_SKULLORB_HELL | 204000 | 600000 | 396000 | {'T6_ARTEFACT_2H_SKULLORB_HELL': '1' and 'T6_METALBAR': '12' and 'T6_PLANKS': '20'}
+T4_MAIN_FIRESTAFF | 3584 | 4280 | 696 | {'T4_METALBAR': '8' and 'T4_PLANKS': '16'}
+T4_2H_FIRESTAFF | 4760 | 5500 | 740 | {'T4_METALBAR': '12' and 'T4_PLANKS': '20'}
+T5_MAIN_FIRESTAFF_KEEPER | 41352 | 42999 | 1647 | {'T5_METALBAR': '8' and 'T5_ARTEFACT_MAIN_FIRESTAFF_KEEPER': '1' and 'T5_PLANKS': '16'}
+T3_MAIN_ARCANESTAFF | 1184 | 2000 | 816 | {'T3_PLANKS': '16' and 'T3_METALBAR': '8'}
+T5_MAIN_ARCANESTAFF | 39864 | 68999 | 29135 | {'T5_METALBAR': '8' and 'T5_PLANKS': '16'}
+T4_2H_ARCANESTAFF | 4760 | 26599 | 21839 | {'T4_METALBAR': '12' and 'T4_PLANKS': '20'}
+T5_2H_ARCANESTAFF | 53124 | 55000 | 1876 | {'T5_METALBAR': '12' and 'T5_PLANKS': '20'}
+T5_2H_ENIGMATICSTAFF | 53124 | 64999 | 11875 | {'T5_METALBAR': '12' and 'T5_PLANKS': '20'}
+T4_MAIN_ARCANESTAFF_UNDEAD | 4884 | 16498 | 11614 | {'T4_METALBAR': '8' and 'T4_PLANKS': '16' and 'T4_ARTEFACT_MAIN_ARCANESTAFF_UNDEAD': '1'}
+T5_MAIN_ARCANESTAFF_UNDEAD | 41253 | 49999 | 8746 | {'T5_ARTEFACT_MAIN_ARCANESTAFF_UNDEAD': '1' and 'T5_METALBAR': '8' and 'T5_PLANKS': '16'}
+T4_2H_ARCANESTAFF_HELL | 14760 | 22000 | 7240 | {'T4_METALBAR': '12' and 'T4_ARTEFACT_2H_ARCANESTAFF_HELL': '1' and 'T4_PLANKS': '20'}
+T5_2H_ARCANESTAFF_HELL | 64601 | 129899 | 65298 | {'T5_ARTEFACT_2H_ARCANESTAFF_HELL': '1' and 'T5_METALBAR': '12' and 'T5_PLANKS': '20'}
+T5_MAIN_HOLYSTAFF | 41840 | 300000 | 258160 | {'T5_CLOTH': '8' and 'T5_PLANKS': '16'}
+T5_2H_HOLYSTAFF | 56088 | 72500 | 16412 | {'T5_CLOTH': '12' and 'T5_PLANKS': '20'}
+T6_2H_HOLYSTAFF | 120800 | 150000 | 29200 | {'T6_CLOTH': '12' and 'T6_PLANKS': '20'}
+T5_2H_DIVINESTAFF | 56088 | 200000 | 143912 | {'T5_CLOTH': '12' and 'T5_PLANKS': '20'}
+T6_2H_DIVINESTAFF | 120800 | 176000 | 55200 | {'T6_CLOTH': '12' and 'T6_PLANKS': '20'}
+T4_MAIN_HOLYSTAFF_MORGANA | 4863 | 55000 | 50137 | {'T4_PLANKS': '16' and 'T4_CLOTH': '8' and 'T4_ARTEFACT_MAIN_HOLYSTAFF_MORGANA': '1'}
+T5_MAIN_HOLYSTAFF_MORGANA | 43236 | 75000 | 31764 | {'T5_ARTEFACT_MAIN_HOLYSTAFF_MORGANA': '1' and 'T5_CLOTH': '8' and 'T5_PLANKS': '16'}
+T6_MAIN_HOLYSTAFF_MORGANA | 94090 | 150000 | 55910 | {'T6_ARTEFACT_MAIN_HOLYSTAFF_MORGANA': '1' and 'T6_CLOTH': '8' and 'T6_PLANKS': '16'}
+T4_MAIN_NATURESTAFF | 3752 | 4800 | 1048 | {'T4_PLANKS': '16' and 'T4_CLOTH': '8'}
+T4_2H_NATURESTAFF | 5012 | 10000 | 4988 | {'T4_PLANKS': '20' and 'T4_CLOTH': '12'}
+T6_2H_NATURESTAFF | 120800 | 500000 | 379200 | {'T6_CLOTH': '12' and 'T6_PLANKS': '20'}
+T4_MAIN_NATURESTAFF_KEEPER | 5130 | 32000 | 26870 | {'T4_PLANKS': '16' and 'T4_CLOTH': '8' and 'T4_ARTEFACT_MAIN_NATURESTAFF_KEEPER': '1'}
+T4_2H_NATURESTAFF_HELL | 10512 | 49894 | 39382 | {'T4_ARTEFACT_2H_NATURESTAFF_HELL': '1' and 'T4_PLANKS': '20' and 'T4_CLOTH': '12'}
+T5_2H_NATURESTAFF_HELL | 63588 | 90000 | 26412 | {'T5_CLOTH': '12' and 'T5_ARTEFACT_2H_NATURESTAFF_HELL': '1' and 'T5_PLANKS': '20'}
+T6_2H_NATURESTAFF_HELL | 136300 | 170000 | 33700 | {'T6_ARTEFACT_2H_NATURESTAFF_HELL': '1' and 'T6_CLOTH': '12' and 'T6_PLANKS': '20'}
+T3_MAIN_DAGGER | 1320 | 1473 | 153 | {'T3_LEATHER': '12' and 'T3_METALBAR': '12'}
+T4_MAIN_DAGGER | 3624 | 13995 | 10371 | {'T4_METALBAR': '12' and 'T4_LEATHER': '12'}
+T5_MAIN_DAGGER | 40764 | 85000 | 44236 | {'T5_LEATHER': '12' and 'T5_METALBAR': '12'}
+T4_2H_DAGGERPAIR | 4832 | 15000 | 10168 | {'T4_METALBAR': '16' and 'T4_LEATHER': '16'}
+T5_2H_DAGGERPAIR | 54352 | 120000 | 65648 | {'T5_LEATHER': '16' and 'T5_METALBAR': '16'}
+T4_2H_CLAWPAIR | 4920 | 15000 | 10080 | {'T4_METALBAR': '12' and 'T4_LEATHER': '20'}
+T5_2H_CLAWPAIR | 54764 | 89000 | 34236 | {'T5_LEATHER': '20' and 'T5_METALBAR': '12'}
+T5_MAIN_RAPIER_MORGANA | 48352 | 98000 | 49648 | {'T5_LEATHER': '8' and 'T5_METALBAR': '16' and 'T5_ARTEFACT_MAIN_RAPIER_MORGANA': '1'}
+T5_2H_IRONGAUNTLETS_HELL | 104764 | 300000 | 195236 | {'T5_LEATHER': '20' and 'T5_ARTEFACT_2H_IRONGAUNTLETS_HELL': '1' and 'T5_METALBAR': '12'}
+T4_MAIN_SPEAR | 3584 | 20000 | 16416 | {'T4_METALBAR': '8' and 'T4_PLANKS': '16'}
+T5_MAIN_SPEAR | 39864 | 60000 | 20136 | {'T5_METALBAR': '8' and 'T5_PLANKS': '16'}
+T4_2H_SPEAR | 4760 | 6000 | 1240 | {'T4_METALBAR': '12' and 'T4_PLANKS': '20'}
+T5_2H_SPEAR | 53124 | 100000 | 46876 | {'T5_METALBAR': '12' and 'T5_PLANKS': '20'}
+T4_2H_GLAIVE | 4648 | 29000 | 24352 | {'T4_METALBAR': '20' and 'T4_PLANKS': '12'}
+T4_MAIN_SPEAR_KEEPER | 5034 | 25000 | 19966 | {'T4_METALBAR': '8' and 'T4_ARTEFACT_MAIN_SPEAR_KEEPER': '1' and 'T4_PLANKS': '16'}
+T6_MAIN_SPEAR_KEEPER | 91000 | 800000 | 709000 | {'T6_METALBAR': '8' and 'T6_PLANKS': '16' and 'T6_ARTEFACT_MAIN_SPEAR_KEEPER': '1'}
+T5_2H_HARPOON_HELL | 64624 | 110000 | 45376 | {'T5_METALBAR': '12' and 'T5_ARTEFACT_2H_HARPOON_HELL': '1' and 'T5_PLANKS': '20'}
+T5_2H_TRIDENT_UNDEAD | 142124 | 299998 | 157874 | {'T5_ARTEFACT_2H_TRIDENT_UNDEAD': '1' and 'T5_METALBAR': '12' and 'T5_PLANKS': '20'}
+T4_MAIN_AXE | 3472 | 5000 | 1528 | {'T4_METALBAR': '16' and 'T4_PLANKS': '8'}
+T5_MAIN_AXE | 39696 | 60000 | 20304 | {'T5_METALBAR': '16' and 'T5_PLANKS': '8'}
+T4_2H_AXE | 4648 | 5000 | 352 | {'T4_METALBAR': '20' and 'T4_PLANKS': '12'}
+T5_2H_AXE | 52956 | 75000 | 22044 | {'T5_METALBAR': '20' and 'T5_PLANKS': '12'}
+T4_2H_HALBERD | 4760 | 5500 | 740 | {'T4_METALBAR': '12' and 'T4_PLANKS': '20'}
+T4_2H_HALBERD_MORGANA | 6260 | 200000 | 193740 | {'T4_METALBAR': '12' and 'T4_PLANKS': '20' and 'T4_ARTEFACT_2H_HALBERD_MORGANA': '1'}
+T5_2H_HALBERD_MORGANA | 54724 | 180000 | 125276 | {'T5_ARTEFACT_2H_HALBERD_MORGANA': '1' and 'T5_METALBAR': '12' and 'T5_PLANKS': '20'}
+T2_MAIN_SWORD | 272 | 400 | 128 | {'T2_METALBAR': '16' and 'T2_LEATHER': '8'}
+T5_MAIN_SWORD | 40352 | 300000 | 259648 | {'T5_LEATHER': '8' and 'T5_METALBAR': '16'}
+T4_2H_CLAYMORE | 4744 | 6200 | 1456 | {'T4_METALBAR': '20' and 'T4_LEATHER': '12'}
+T5_2H_CLAYMORE | 53940 | 150000 | 96060 | {'T5_LEATHER': '12' and 'T5_METALBAR': '20'}
+T4_2H_DUALSWORD | 4744 | 5000 | 256 | {'T4_METALBAR': '20' and 'T4_LEATHER': '12'}
+T5_2H_DUALSWORD | 53940 | 150000 | 96060 | {'T5_LEATHER': '12' and 'T5_METALBAR': '20'}
+T5_MAIN_SCIMITAR_MORGANA | 41852 | 150000 | 108148 | {'T5_LEATHER': '8' and 'T5_METALBAR': '16' and 'T5_ARTEFACT_MAIN_SCIMITAR_MORGANA': '1'}
+T5_2H_CLEAVER_HELL | 67933 | 120000 | 52067 | {'T5_LEATHER': '12' and 'T5_ARTEFACT_2H_CLEAVER_HELL': '1' and 'T5_METALBAR': '20'}
+T4_2H_QUARTERSTAFF | 4920 | 16000 | 11080 | {'T4_METALBAR': '12' and 'T4_LEATHER': '20'}
+T5_2H_QUARTERSTAFF | 54764 | 65000 | 10236 | {'T5_LEATHER': '20' and 'T5_METALBAR': '12'}
+T4_2H_IRONCLADEDSTAFF | 4920 | 8987 | 4067 | {'T4_METALBAR': '12' and 'T4_LEATHER': '20'}
+T5_2H_IRONCLADEDSTAFF | 54764 | 135000 | 80236 | {'T5_LEATHER': '20' and 'T5_METALBAR': '12'}
+T4_2H_DOUBLEBLADEDSTAFF | 4920 | 11000 | 6080 | {'T4_METALBAR': '12' and 'T4_LEATHER': '20'}
+T5_2H_DOUBLEBLADEDSTAFF | 54764 | 95000 | 40236 | {'T5_LEATHER': '20' and 'T5_METALBAR': '12'}
+T4_2H_COMBATSTAFF_MORGANA | 6220 | 11111 | 4891 | {'T4_METALBAR': '12' and 'T4_ARTEFACT_2H_COMBATSTAFF_MORGANA': '1' and 'T4_LEATHER': '20'}
+T5_2H_TWINSCYTHE_HELL | 73764 | 180000 | 106236 | {'T5_LEATHER': '20' and 'T5_ARTEFACT_2H_TWINSCYTHE_HELL': '1' and 'T5_METALBAR': '12'}
+T5_MAIN_HAMMER | 39528 | 45000 | 5472 | {'T5_METALBAR': '24'}
+T4_2H_POLEHAMMER | 4732 | 11111 | 6379 | {'T4_METALBAR': '20' and 'T4_CLOTH': '12'}
+T5_2H_HAMMER | 55668 | 69000 | 13332 | {'T5_CLOTH': '12' and 'T5_METALBAR': '20'}
+T4_2H_HAMMER_UNDEAD | 5727 | 11000 | 5273 | {'T4_METALBAR': '20' and 'T4_ARTEFACT_2H_HAMMER_UNDEAD': '1' and 'T4_CLOTH': '12'}
+T5_2H_HAMMER_UNDEAD | 57068 | 86000 | 28932 | {'T5_ARTEFACT_2H_HAMMER_UNDEAD': '1' and 'T5_CLOTH': '12' and 'T5_METALBAR': '20'}
+T4_2H_DUALHAMMER_HELL | 11231 | 125000 | 113769 | {'T4_METALBAR': '20' and 'T4_CLOTH': '12' and 'T4_ARTEFACT_2H_DUALHAMMER_HELL': '1'}
+T5_2H_DUALHAMMER_HELL | 65168 | 250000 | 184832 | {'T5_CLOTH': '12' and 'T5_METALBAR': '20' and 'T5_ARTEFACT_2H_DUALHAMMER_HELL': '1'}
+T4_MAIN_MACE | 3528 | 6600 | 3072 | {'T4_METALBAR': '16' and 'T4_CLOTH': '8'}
+T5_MAIN_MACE | 41504 | 78000 | 36496 | {'T5_CLOTH': '8' and 'T5_METALBAR': '16'}
+T4_2H_MACE | 4732 | 10999 | 6267 | {'T4_METALBAR': '20' and 'T4_CLOTH': '12'}
+T5_2H_MACE | 55668 | 77777 | 22109 | {'T5_CLOTH': '12' and 'T5_METALBAR': '20'}
+T4_2H_FLAIL | 4732 | 15000 | 10268 | {'T4_METALBAR': '20' and 'T4_CLOTH': '12'}
+T5_2H_FLAIL | 55668 | 78998 | 23330 | {'T5_CLOTH': '12' and 'T5_METALBAR': '20'}
+T4_MAIN_ROCKMACE_KEEPER | 4828 | 17495 | 12667 | {'T4_METALBAR': '16' and 'T4_CLOTH': '8' and 'T4_ARTEFACT_MAIN_ROCKMACE_KEEPER': '1'}
