@@ -93,6 +93,7 @@ T6_RANDOM_DUNGEON_TOKEN_4 https://www.albion-online-data.com/api/v1/stats/prices
 T7_RANDOM_DUNGEON_TOKEN_4 https://www.albion-online-data.com/api/v1/stats/prices/T7_RANDOM_DUNGEON_TOKEN_4?locations=Martlock
 T8_RANDOM_DUNGEON_TOKEN_4 https://www.albion-online-data.com/api/v1/stats/prices/T8_RANDOM_DUNGEON_TOKEN_4?locations=Martlock
 UNIQUE_TEST_DUNGEONMAP_PROTOTYPE https://www.albion-online-data.com/api/v1/stats/prices/UNIQUE_TEST_DUNGEONMAP_PROTOTYPE?locations=Martlock
+[Errno 110] Connection timed out
 T1_FISH_FRESHWATER_ALL_COMMON https://www.albion-online-data.com/api/v1/stats/prices/T1_FISH_FRESHWATER_ALL_COMMON?locations=Martlock
 T2_FISH_FRESHWATER_ALL_COMMON https://www.albion-online-data.com/api/v1/stats/prices/T2_FISH_FRESHWATER_ALL_COMMON?locations=Martlock
 T3_FISH_FRESHWATER_ALL_COMMON https://www.albion-online-data.com/api/v1/stats/prices/T3_FISH_FRESHWATER_ALL_COMMON?locations=Martlock
